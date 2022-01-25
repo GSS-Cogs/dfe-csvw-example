@@ -1,0 +1,95 @@
+Outcomes for children in need, including children looked after by local authorities in England
+2020 Reporting Year
+
+Description
+
+This document describes the data included in the ‘Outcomes for children in need, including children looked after by local authorities in England: 2020’ National Statistics release’s underlying data files. This data is released under the terms of the  Open Government License and is intended to meet at least three stars for  Open Data.
+
+The methodology document for this subject should be referenced alongside this release. It provides information on the data sources, their coverage and quality and how the data is produced.
+
+Coverage
+
+This statistical release provides a range of outcome measures at national and level authority level for children in need(CIN), including children looked after(CLA) by local authorities in England.
+
+The outcome measures cover:
+
+- special education needs
+- educational attainment (at key stage 4)
+- destinations from school
+- absence from school
+- permanent exclusions and suspensions from school
+- free school meal eligibility
+- type of school attended
+
+Detailed information on the social care groups and the all pupils comparisons is provided in the methodology document.
+
+Abbreviations of social care group names used throughout this release
+
+- CIN - children in need.
+- CINO - children in need, excluding children on a child protection plan and children looked after. This includes children on child in need plans as well as other types of plan or arrangements.
+- CPPO - children on a child protection plan, excluding children looked after.
+- CLA - children looked after (excludes children who are in respite care in their most recent episode during the reporting year).
+
+Social care groups included in both national and local authority level data:
+
+- CINO at 31 March
+- CPPO at 31 March (where numbers are large enough).
+- CLA 12 months at 31 March
+
+Social care groups included in national level data only:
+
+- All pupils comparison - from the national publications.
+- CIN at 31 March
+- CLA less than 12 months at 31 March
+- CIN at any point - ‘any point’ means at any point during the reporting year (including at 31 March).
+- CINO at any point
+- CPPO at any point
+- CLA at any point
+- Ever CIN - last 6 years - children in need, at any point in the last 6 reporting years (including at 31 March).
+
+At key stage 4 there are additional groups in the national level data on previously looked after arrangements (PLAA). These are Official Statistics on arrangements for previously looked after children.
+
+- PLAA - Adoption - previously looked after children who left care through an adoption.
+- PLAA - SGO - previously looked after children who left care through a special guardianship order (SGO).
+- PLAA - CAO - previously looked after children who left care through a child arrangements order (CAO).
+- PLAA - Total - previously looked after children who left care through an adoption, SGO or CAO.
+
+File formats and conventions
+
+Rounding and suppression
+
+National and regional figures have been rounded to the nearest 10.  Local authority figures are unrounded.
+
+The following symbols have been used in the releases:
+
+- ‘c’ to protect confidentiality. Secondary suppression may be required.
+- ‘z’ for not applicable
+- ‘:’ for not available
+- ‘~’ for negligible – also used for a percentage (<0.5%) that would round to 0 but is not zero
+
+For percentages:
+
+- where the numerator or denominator is small then the figure is replaced by ‘c’
+- they may not sum to 100% due to rounding
+
+Data files
+
+LA - Free school meals (FSM)
+
+Filename: fsm_la.csv
+Geographic levels: National; Local Authority; Regional
+Time period: 2016/17 to 2019/20
+Content summary: Free school meal eligibility for children in need (excluding children on a child protection plan and children looked after), children on a child protection plan (excluding children looked after), 2016/17 to 2019/20
+
+Variable names and descriptions for this file are provided below:
+
+Variable name      |  Variable description
+-----------------  |  ------------------------------------------------------
+pt_FSM_eligible    |  Percentage of pupils with free school meal eligibility
+social_care_group  |  Social care group - Filter by social care group
+t_FSM_eligible     |  Number of pupils with free school meal eligibility
+t_pupils           |  Number of pupils
+
+Footnotes:
+
+1. Free school meal (FSM) eligibility is taken from both the school census and the alternative provision census. More detailed information on the FSM data published within this release is available in the accompanying methodology document. 

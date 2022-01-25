@@ -1,0 +1,1215 @@
+time_period,time_identifier,geographic_level,country_code,country_name,region_code,region_name,old_la_code,la_name,new_la_code,social_care_group,t_pupils,t_FSM_eligible,pt_FSM_eligible
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,841,Darlington,E06000005,CINO at 31 March,346,202,58.4
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,840,Durham,E06000047,CINO at 31 March,1129,697,61.7
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,390,Gateshead,E08000037,CINO at 31 March,520,273,52.5
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,805,Hartlepool,E06000001,CINO at 31 March,585,359,61.4
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,806,Middlesbrough,E06000002,CINO at 31 March,1134,708,62.4
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,391,Newcastle upon Tyne,E08000021,CINO at 31 March,764,485,63.5
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,392,North Tyneside,E08000022,CINO at 31 March,398,221,55.5
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,929,Northumberland,E06000057,CINO at 31 March,1016,536,52.8
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,807,Redcar and Cleveland,E06000003,CINO at 31 March,654,380,58.1
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,393,South Tyneside,E08000023,CINO at 31 March,493,301,61.1
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,808,Stockton-on-Tees,E06000004,CINO at 31 March,853,456,53.5
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,394,Sunderland,E08000024,CINO at 31 March,694,437,63
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,889,Blackburn with Darwen,E06000008,CINO at 31 March,219,119,54.3
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,890,Blackpool,E06000009,CINO at 31 March,602,412,68.4
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,350,Bolton,E08000001,CINO at 31 March,526,285,54.2
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,351,Bury,E08000002,CINO at 31 March,351,192,54.7
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,895,Cheshire East,E06000049,CINO at 31 March,681,301,44.2
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,896,Cheshire West and Chester,E06000050,CINO at 31 March,325,201,61.8
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,909,Cumbria,E10000006,CINO at 31 March,897,399,44.5
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,876,Halton,E06000006,CINO at 31 March,362,266,73.5
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,340,Knowsley,E08000011,CINO at 31 March,362,259,71.5
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,888,Lancashire,E10000017,CINO at 31 March,2046,1015,49.6
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,341,Liverpool,E08000012,CINO at 31 March,1065,660,62
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,352,Manchester,E08000003,CINO at 31 March,784,565,72.1
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,353,Oldham,E08000004,CINO at 31 March,917,459,50.1
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,354,Rochdale,E08000005,CINO at 31 March,922,471,51.1
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,355,Salford,E08000006,CINO at 31 March,767,493,64.3
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,343,Sefton,E08000014,CINO at 31 March,815,452,55.5
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,342,St. Helens,E08000013,CINO at 31 March,561,296,52.8
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,356,Stockport,E08000007,CINO at 31 March,823,503,61.1
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,357,Tameside,E08000008,CINO at 31 March,566,323,57.1
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,358,Trafford,E08000009,CINO at 31 March,475,267,56.2
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,877,Warrington,E06000007,CINO at 31 March,421,264,62.7
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,359,Wigan,E08000010,CINO at 31 March,1319,714,54.1
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,344,Wirral,E08000015,CINO at 31 March,809,444,54.9
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,370,Barnsley,E08000016,CINO at 31 March,807,509,63.1
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,380,Bradford,E08000032,CINO at 31 March,1830,928,50.7
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,381,Calderdale,E08000033,CINO at 31 March,421,254,60.3
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,371,Doncaster,E08000017,CINO at 31 March,841,442,52.6
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,811,East Riding of Yorkshire,E06000011,CINO at 31 March,977,442,45.2
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,810,Kingston upon Hull City of,E06000010,CINO at 31 March,1152,765,66.4
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,382,Kirklees,E08000034,CINO at 31 March,612,364,59.5
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,383,Leeds,E08000035,CINO at 31 March,2038,1151,56.5
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,812,North East Lincolnshire,E06000012,CINO at 31 March,780,438,56.2
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,813,North Lincolnshire,E06000013,CINO at 31 March,396,222,56.1
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,815,North Yorkshire,E10000023,CINO at 31 March,960,408,42.5
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,372,Rotherham,E08000018,CINO at 31 March,479,319,66.6
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,373,Sheffield,E08000019,CINO at 31 March,1400,815,58.2
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,384,Wakefield,E08000036,CINO at 31 March,1029,567,55.1
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,816,York,E06000014,CINO at 31 March,465,201,43.2
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,Derby,E06000015,CINO at 31 March,949,535,56.4
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,Derbyshire,E10000007,CINO at 31 March,2343,1364,58.2
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,Leicester,E06000016,CINO at 31 March,407,238,58.5
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,Leicestershire,E10000018,CINO at 31 March,999,503,50.4
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,Lincolnshire,E10000019,CINO at 31 March,1307,681,52.1
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,928,Northamptonshire,E10000021,CINO at 31 March,1790,827,46.2
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,Nottingham,E06000018,CINO at 31 March,802,484,60.3
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,Nottinghamshire,E10000024,CINO at 31 March,1511,706,46.7
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,Rutland,E06000017,CINO at 31 March,47,14,29.8
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,Birmingham,E08000025,CINO at 31 March,2452,1482,60.4
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,Coventry,E08000026,CINO at 31 March,1254,661,52.7
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,Dudley,E08000027,CINO at 31 March,807,400,49.6
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,Herefordshire,E06000019,CINO at 31 March,268,113,42.2
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,Sandwell,E08000028,CINO at 31 March,982,529,53.9
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,Shropshire,E06000051,CINO at 31 March,434,163,37.6
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,Solihull,E08000029,CINO at 31 March,404,199,49.3
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,Staffordshire,E10000028,CINO at 31 March,2121,899,42.4
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,Stoke-on-Trent,E06000021,CINO at 31 March,1158,669,57.8
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,Telford and Wrekin,E06000020,CINO at 31 March,226,121,53.5
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,Walsall,E08000030,CINO at 31 March,822,499,60.7
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,Warwickshire,E10000031,CINO at 31 March,1846,874,47.3
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,Wolverhampton,E08000031,CINO at 31 March,694,412,59.4
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,Worcestershire,E10000034,CINO at 31 March,1222,577,47.2
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,822,Bedford,E06000055,CINO at 31 March,547,270,49.4
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,873,Cambridgeshire,E10000003,CINO at 31 March,872,466,53.4
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,823,Central Bedfordshire,E06000056,CINO at 31 March,480,217,45.2
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,881,Essex,E10000012,CINO at 31 March,2268,1026,45.2
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,919,Hertfordshire,E10000015,CINO at 31 March,1437,628,43.7
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,821,Luton,E06000032,CINO at 31 March,592,251,42.4
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,926,Norfolk,E10000020,CINO at 31 March,1372,767,55.9
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,874,Peterborough,E06000031,CINO at 31 March,268,150,56
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,882,Southend-on-Sea,E06000033,CINO at 31 March,444,220,49.5
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,935,Suffolk,E10000029,CINO at 31 March,1091,555,50.9
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,883,Thurrock,E06000034,CINO at 31 March,442,196,44.3
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,867,Bracknell Forest,E06000036,CINO at 31 March,356,117,32.9
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,846,Brighton and Hove,E06000043,CINO at 31 March,669,376,56.2
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,825,Buckinghamshire,E10000002,CINO at 31 March,1412,575,40.7
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,845,East Sussex,E10000011,CINO at 31 March,1037,621,59.9
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,850,Hampshire,E10000014,CINO at 31 March,3393,1561,46
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,921,Isle of Wight,E06000046,CINO at 31 March,461,216,46.9
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,886,Kent,E10000016,CINO at 31 March,3593,1728,48.1
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,887,Medway,E06000035,CINO at 31 March,848,384,45.3
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,826,Milton Keynes,E06000042,CINO at 31 March,1132,556,49.1
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,931,Oxfordshire,E10000025,CINO at 31 March,1932,850,44
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,851,Portsmouth,E06000044,CINO at 31 March,502,324,64.5
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,870,Reading,E06000038,CINO at 31 March,575,293,51
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,871,Slough,E06000039,CINO at 31 March,667,246,36.9
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,852,Southampton,E06000045,CINO at 31 March,929,565,60.8
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,936,Surrey,E10000030,CINO at 31 March,2200,986,44.8
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,869,West Berkshire,E06000037,CINO at 31 March,433,157,36.3
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,938,West Sussex,E10000032,CINO at 31 March,2110,897,42.5
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,868,Windsor and Maidenhead,E06000040,CINO at 31 March,337,123,36.5
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,872,Wokingham,E06000041,CINO at 31 March,487,171,35.1
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,800,Bath and North East Somerset,E06000022,CINO at 31 March,432,215,49.8
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,839,"Bournemouth, Christchurch and Poole (2020 onwards)",E06000058,CINO at 31 March,824,439,53.3
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,801,Bristol City of,E06000023,CINO at 31 March,837,565,67.5
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,908,Cornwall,E06000052,CINO at 31 March,1408,665,47.2
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,878,Devon,E10000008,CINO at 31 March,1006,561,55.8
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,838,Dorset (2020 onwards),E06000059,CINO at 31 March,1159,568,49
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,916,Gloucestershire,E10000013,CINO at 31 March,1334,687,51.5
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,420,Isles Of Scilly,E06000053,CINO at 31 March,24,c,c
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,802,North Somerset,E06000024,CINO at 31 March,109,67,61.5
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,879,Plymouth,E06000026,CINO at 31 March,556,326,58.6
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,933,Somerset,E10000027,CINO at 31 March,857,525,61.3
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,803,South Gloucestershire,E06000025,CINO at 31 March,780,320,41
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,866,Swindon,E06000030,CINO at 31 March,533,270,50.7
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,880,Torbay,E06000027,CINO at 31 March,517,323,62.5
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,865,Wiltshire,E06000054,CINO at 31 March,841,355,42.2
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,Camden,E09000007,CINO at 31 March,591,358,60.6
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,City of London,E09000001,CINO at 31 March,17,c,c
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,Hackney,E09000012,CINO at 31 March,1080,647,59.9
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,Hammersmith and Fulham,E09000013,CINO at 31 March,426,229,53.8
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,Haringey,E09000014,CINO at 31 March,843,372,44.1
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,Islington,E09000019,CINO at 31 March,835,485,58.1
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,Kensington and Chelsea,E09000020,CINO at 31 March,265,164,61.9
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,Lambeth,E09000022,CINO at 31 March,863,445,51.6
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,Lewisham,E09000023,CINO at 31 March,723,367,50.8
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,Newham,E09000025,CINO at 31 March,1441,585,40.6
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,Southwark,E09000028,CINO at 31 March,913,475,52
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,Tower Hamlets,E09000030,CINO at 31 March,1107,618,55.8
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,Wandsworth,E09000032,CINO at 31 March,731,384,52.5
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,Westminster,E09000033,CINO at 31 March,589,334,56.7
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,Barking and Dagenham,E09000002,CINO at 31 March,877,399,45.5
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,Barnet,E09000003,CINO at 31 March,391,191,48.8
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,Bexley,E09000004,CINO at 31 March,561,235,41.9
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,Brent,E09000005,CINO at 31 March,1069,397,37.1
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,Bromley,E09000006,CINO at 31 March,914,374,40.9
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,Croydon,E09000008,CINO at 31 March,1179,570,48.3
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,Ealing,E09000009,CINO at 31 March,1717,716,41.7
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,Enfield,E09000010,CINO at 31 March,438,229,52.3
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,Greenwich,E09000011,CINO at 31 March,812,408,50.2
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,Harrow,E09000015,CINO at 31 March,724,251,34.7
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,Havering,E09000016,CINO at 31 March,520,247,47.5
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,Hillingdon,E09000017,CINO at 31 March,744,333,44.8
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,Hounslow,E09000018,CINO at 31 March,480,246,51.2
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,Kingston upon Thames,E09000021,CINO at 31 March,352,125,35.5
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,Merton,E09000024,CINO at 31 March,403,189,46.9
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,Redbridge,E09000026,CINO at 31 March,543,213,39.2
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,Richmond upon Thames,E09000027,CINO at 31 March,234,90,38.5
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,Sutton,E09000029,CINO at 31 March,791,268,33.9
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,Waltham Forest,E09000031,CINO at 31 March,792,352,44.4
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,841,Darlington,E06000005,CPPO at 31 March,58,52,89.7
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,840,Durham,E06000047,CPPO at 31 March,297,225,75.8
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,390,Gateshead,E08000037,CPPO at 31 March,151,114,75.5
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,805,Hartlepool,E06000001,CPPO at 31 March,141,107,75.9
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,806,Middlesbrough,E06000002,CPPO at 31 March,231,171,74
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,391,Newcastle upon Tyne,E08000021,CPPO at 31 March,276,234,84.8
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,392,North Tyneside,E08000022,CPPO at 31 March,63,49,77.8
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,929,Northumberland,E06000057,CPPO at 31 March,292,192,65.8
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,807,Redcar and Cleveland,E06000003,CPPO at 31 March,146,123,84.2
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,393,South Tyneside,E08000023,CPPO at 31 March,121,85,70.2
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,808,Stockton-on-Tees,E06000004,CPPO at 31 March,242,167,69
+201920,Academic year,Local authority,E92000001,England,E12000001,North East,394,Sunderland,E08000024,CPPO at 31 March,196,131,66.8
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,889,Blackburn with Darwen,E06000008,CPPO at 31 March,61,54,88.5
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,890,Blackpool,E06000009,CPPO at 31 March,235,170,72.3
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,350,Bolton,E08000001,CPPO at 31 March,181,136,75.1
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,351,Bury,E08000002,CPPO at 31 March,71,55,77.5
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,895,Cheshire East,E06000049,CPPO at 31 March,168,120,71.4
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,896,Cheshire West and Chester,E06000050,CPPO at 31 March,90,85,94.4
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,909,Cumbria,E10000006,CPPO at 31 March,406,272,67
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,876,Halton,E06000006,CPPO at 31 March,88,70,79.5
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,340,Knowsley,E08000011,CPPO at 31 March,113,82,72.6
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,888,Lancashire,E10000017,CPPO at 31 March,375,288,76.8
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,341,Liverpool,E08000012,CPPO at 31 March,330,247,74.8
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,352,Manchester,E08000003,CPPO at 31 March,287,238,82.9
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,353,Oldham,E08000004,CPPO at 31 March,239,175,73.2
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,354,Rochdale,E08000005,CPPO at 31 March,193,143,74.1
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,355,Salford,E08000006,CPPO at 31 March,330,246,74.5
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,343,Sefton,E08000014,CPPO at 31 March,140,102,72.9
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,342,St. Helens,E08000013,CPPO at 31 March,113,88,77.9
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,356,Stockport,E08000007,CPPO at 31 March,103,82,79.6
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,357,Tameside,E08000008,CPPO at 31 March,212,171,80.7
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,358,Trafford,E08000009,CPPO at 31 March,144,90,62.5
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,877,Warrington,E06000007,CPPO at 31 March,91,73,80.2
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,359,Wigan,E08000010,CPPO at 31 March,213,147,69
+201920,Academic year,Local authority,E92000001,England,E12000002,North West,344,Wirral,E08000015,CPPO at 31 March,180,133,73.9
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,370,Barnsley,E08000016,CPPO at 31 March,162,133,82.1
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,380,Bradford,E08000032,CPPO at 31 March,602,432,71.8
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,381,Calderdale,E08000033,CPPO at 31 March,156,115,73.7
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,371,Doncaster,E08000017,CPPO at 31 March,177,121,68.4
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,811,East Riding of Yorkshire,E06000011,CPPO at 31 March,135,88,65.2
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,810,Kingston upon Hull City of,E06000010,CPPO at 31 March,319,241,75.5
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,382,Kirklees,E08000034,CPPO at 31 March,252,165,65.5
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,383,Leeds,E08000035,CPPO at 31 March,363,273,75.2
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,812,North East Lincolnshire,E06000012,CPPO at 31 March,248,169,68.1
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,813,North Lincolnshire,E06000013,CPPO at 31 March,48,32,66.7
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,815,North Yorkshire,E10000023,CPPO at 31 March,163,135,82.8
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,372,Rotherham,E08000018,CPPO at 31 March,164,114,69.5
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,373,Sheffield,E08000019,CPPO at 31 March,448,330,73.7
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,384,Wakefield,E08000036,CPPO at 31 March,325,242,74.5
+201920,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,816,York,E06000014,CPPO at 31 March,159,102,64.2
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,Derby,E06000015,CPPO at 31 March,247,164,66.4
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,Derbyshire,E10000007,CPPO at 31 March,573,433,75.6
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,Leicester,E06000016,CPPO at 31 March,151,109,72.2
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,Leicestershire,E10000018,CPPO at 31 March,272,167,61.4
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,Lincolnshire,E10000019,CPPO at 31 March,185,134,72.4
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,928,Northamptonshire,E10000021,CPPO at 31 March,484,331,68.4
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,Nottingham,E06000018,CPPO at 31 March,244,182,74.6
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,Nottinghamshire,E10000024,CPPO at 31 March,518,368,71
+201920,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,Rutland,E06000017,CPPO at 31 March,9,c,c
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,Birmingham,E08000025,CPPO at 31 March,655,542,82.7
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,Coventry,E08000026,CPPO at 31 March,257,162,63
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,Dudley,E08000027,CPPO at 31 March,207,160,77.3
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,Herefordshire,E06000019,CPPO at 31 March,72,54,75
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,Sandwell,E08000028,CPPO at 31 March,390,253,64.9
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,Shropshire,E06000051,CPPO at 31 March,171,107,62.6
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,Solihull,E08000029,CPPO at 31 March,92,72,78.3
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,Staffordshire,E10000028,CPPO at 31 March,319,217,68
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,Stoke-on-Trent,E06000021,CPPO at 31 March,325,268,82.5
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,Telford and Wrekin,E06000020,CPPO at 31 March,50,40,80
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,Walsall,E08000030,CPPO at 31 March,153,124,81
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,Warwickshire,E10000031,CPPO at 31 March,165,90,54.5
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,Wolverhampton,E08000031,CPPO at 31 March,152,101,66.4
+201920,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,Worcestershire,E10000034,CPPO at 31 March,315,212,67.3
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,822,Bedford,E06000055,CPPO at 31 March,87,53,60.9
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,873,Cambridgeshire,E10000003,CPPO at 31 March,200,146,73
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,823,Central Bedfordshire,E06000056,CPPO at 31 March,101,59,58.4
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,881,Essex,E10000012,CPPO at 31 March,331,235,71
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,919,Hertfordshire,E10000015,CPPO at 31 March,142,115,81
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,821,Luton,E06000032,CPPO at 31 March,147,97,66
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,926,Norfolk,E10000020,CPPO at 31 March,373,268,71.8
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,874,Peterborough,E06000031,CPPO at 31 March,39,28,71.8
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,882,Southend-on-Sea,E06000033,CPPO at 31 March,101,81,80.2
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,935,Suffolk,E10000029,CPPO at 31 March,249,169,67.9
+201920,Academic year,Local authority,E92000001,England,E12000006,East of England,883,Thurrock,E06000034,CPPO at 31 March,65,32,49.2
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,867,Bracknell Forest,E06000036,CPPO at 31 March,64,31,48.4
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,846,Brighton and Hove,E06000043,CPPO at 31 March,205,151,73.7
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,825,Buckinghamshire,E10000002,CPPO at 31 March,370,195,52.7
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,845,East Sussex,E10000011,CPPO at 31 March,309,237,76.7
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,850,Hampshire,E10000014,CPPO at 31 March,558,355,63.6
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,921,Isle of Wight,E06000046,CPPO at 31 March,67,35,52.2
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,886,Kent,E10000016,CPPO at 31 March,767,569,74.2
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,887,Medway,E06000035,CPPO at 31 March,276,168,60.9
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,826,Milton Keynes,E06000042,CPPO at 31 March,78,53,67.9
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,931,Oxfordshire,E10000025,CPPO at 31 March,325,217,66.8
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,851,Portsmouth,E06000044,CPPO at 31 March,117,88,75.2
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,870,Reading,E06000038,CPPO at 31 March,142,92,64.8
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,871,Slough,E06000039,CPPO at 31 March,198,100,50.5
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,852,Southampton,E06000045,CPPO at 31 March,237,204,86.1
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,936,Surrey,E10000030,CPPO at 31 March,380,243,63.9
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,869,West Berkshire,E06000037,CPPO at 31 March,55,31,56.4
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,938,West Sussex,E10000032,CPPO at 31 March,499,296,59.3
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,868,Windsor and Maidenhead,E06000040,CPPO at 31 March,77,37,48.1
+201920,Academic year,Local authority,E92000001,England,E12000008,South East,872,Wokingham,E06000041,CPPO at 31 March,92,52,56.5
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,800,Bath and North East Somerset,E06000022,CPPO at 31 March,83,64,77.1
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,839,"Bournemouth, Christchurch and Poole (2020 onwards)",E06000058,CPPO at 31 March,138,100,72.5
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,801,Bristol City of,E06000023,CPPO at 31 March,206,157,76.2
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,908,Cornwall,E06000052,CPPO at 31 March,274,180,65.7
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,878,Devon,E10000008,CPPO at 31 March,330,210,63.6
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,838,Dorset (2020 onwards),E06000059,CPPO at 31 March,178,134,75.3
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,916,Gloucestershire,E10000013,CPPO at 31 March,404,287,71
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,420,Isles Of Scilly,E06000053,CPPO at 31 March,0,z,z
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,802,North Somerset,E06000024,CPPO at 31 March,17,13,76.5
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,879,Plymouth,E06000026,CPPO at 31 March,205,161,78.5
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,933,Somerset,E10000027,CPPO at 31 March,178,121,68
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,803,South Gloucestershire,E06000025,CPPO at 31 March,123,69,56.1
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,866,Swindon,E06000030,CPPO at 31 March,118,71,60.2
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,880,Torbay,E06000027,CPPO at 31 March,141,104,73.8
+201920,Academic year,Local authority,E92000001,England,E12000009,South West,865,Wiltshire,E06000054,CPPO at 31 March,194,112,57.7
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,Camden,E09000007,CPPO at 31 March,144,99,68.8
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,City of London,E09000001,CPPO at 31 March,c,c,c
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,Hackney,E09000012,CPPO at 31 March,126,96,76.2
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,Hammersmith and Fulham,E09000013,CPPO at 31 March,85,48,56.5
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,Haringey,E09000014,CPPO at 31 March,85,48,56.5
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,Islington,E09000019,CPPO at 31 March,139,99,71.2
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,Kensington and Chelsea,E09000020,CPPO at 31 March,20,13,65
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,Lambeth,E09000022,CPPO at 31 March,135,81,60
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,Lewisham,E09000023,CPPO at 31 March,123,86,69.9
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,Newham,E09000025,CPPO at 31 March,248,112,45.2
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,Southwark,E09000028,CPPO at 31 March,189,120,63.5
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,Tower Hamlets,E09000030,CPPO at 31 March,146,109,74.7
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,Wandsworth,E09000032,CPPO at 31 March,154,93,60.4
+201920,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,Westminster,E09000033,CPPO at 31 March,33,28,84.8
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,Barking and Dagenham,E09000002,CPPO at 31 March,193,122,63.2
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,Barnet,E09000003,CPPO at 31 March,74,46,62.2
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,Bexley,E09000004,CPPO at 31 March,75,55,73.3
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,Brent,E09000005,CPPO at 31 March,155,89,57.4
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,Bromley,E09000006,CPPO at 31 March,149,84,56.4
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,Croydon,E09000008,CPPO at 31 March,298,200,67.1
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,Ealing,E09000009,CPPO at 31 March,117,59,50.4
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,Enfield,E09000010,CPPO at 31 March,23,16,69.6
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,Greenwich,E09000011,CPPO at 31 March,160,118,73.8
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,Harrow,E09000015,CPPO at 31 March,163,74,45.4
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,Havering,E09000016,CPPO at 31 March,57,42,73.7
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,Hillingdon,E09000017,CPPO at 31 March,160,99,61.9
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,Hounslow,E09000018,CPPO at 31 March,81,54,66.7
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,Kingston upon Thames,E09000021,CPPO at 31 March,143,73,51
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,Merton,E09000024,CPPO at 31 March,60,34,56.7
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,Redbridge,E09000026,CPPO at 31 March,102,58,56.9
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,Richmond upon Thames,E09000027,CPPO at 31 March,101,58,57.4
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,Sutton,E09000029,CPPO at 31 March,140,90,64.3
+201920,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,Waltham Forest,E09000031,CPPO at 31 March,119,63,52.9
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,841,Darlington,E06000005,CINO at 31 March,443,246,55.5
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,840,Durham,E06000047,CINO at 31 March,1427,836,58.6
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,390,Gateshead,E08000037,CINO at 31 March,524,257,49
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,805,Hartlepool,E06000001,CINO at 31 March,652,396,60.7
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,806,Middlesbrough,E06000002,CINO at 31 March,901,494,54.8
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,391,Newcastle upon Tyne,E08000021,CINO at 31 March,1171,737,62.9
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,392,North Tyneside,E08000022,CINO at 31 March,438,199,45.4
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,929,Northumberland,E06000057,CINO at 31 March,1020,524,51.4
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,807,Redcar and Cleveland,E06000003,CINO at 31 March,531,272,51.2
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,393,South Tyneside,E08000023,CINO at 31 March,468,271,57.9
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,808,Stockton-on-Tees,E06000004,CINO at 31 March,679,370,54.5
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,394,Sunderland,E08000024,CINO at 31 March,856,515,60.2
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,889,Blackburn with Darwen,E06000008,CINO at 31 March,317,169,53.3
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,890,Blackpool,E06000009,CINO at 31 March,763,438,57.4
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,350,Bolton,E08000001,CINO at 31 March,749,423,56.5
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,351,Bury,E08000002,CINO at 31 March,488,240,49.2
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,895,Cheshire East,E06000049,CINO at 31 March,741,354,47.8
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,896,Cheshire West and Chester,E06000050,CINO at 31 March,449,271,60.4
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,909,Cumbria,E10000006,CINO at 31 March,1210,477,39.4
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,876,Halton,E06000006,CINO at 31 March,342,220,64.3
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,340,Knowsley,E08000011,CINO at 31 March,362,253,69.9
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,888,Lancashire,E10000017,CINO at 31 March,2571,1257,48.9
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,341,Liverpool,E08000012,CINO at 31 March,1226,707,57.7
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,352,Manchester,E08000003,CINO at 31 March,959,628,65.5
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,353,Oldham,E08000004,CINO at 31 March,1195,565,47.3
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,354,Rochdale,E08000005,CINO at 31 March,987,515,52.2
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,355,Salford,E08000006,CINO at 31 March,835,444,53.2
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,343,Sefton,E08000014,CINO at 31 March,845,461,54.6
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,342,St. Helens,E08000013,CINO at 31 March,679,313,46.1
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,356,Stockport,E08000007,CINO at 31 March,844,441,52.3
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,357,Tameside,E08000008,CINO at 31 March,776,404,52.1
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,358,Trafford,E08000009,CINO at 31 March,584,252,43.2
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,877,Warrington,E06000007,CINO at 31 March,427,214,50.1
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,359,Wigan,E08000010,CINO at 31 March,803,409,50.9
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,344,Wirral,E08000015,CINO at 31 March,918,511,55.7
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,370,Barnsley,E08000016,CINO at 31 March,613,366,59.7
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,380,Bradford,E08000032,CINO at 31 March,2195,1035,47.2
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,381,Calderdale,E08000033,CINO at 31 March,553,333,60.2
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,371,Doncaster,E08000017,CINO at 31 March,1070,485,45.3
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,811,East Riding of Yorkshire,E06000011,CINO at 31 March,796,367,46.1
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,810,Kingston upon Hull City of,E06000010,CINO at 31 March,1125,674,59.9
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,382,Kirklees,E08000034,CINO at 31 March,780,483,61.9
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,383,Leeds,E08000035,CINO at 31 March,2182,1210,55.5
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,812,North East Lincolnshire,E06000012,CINO at 31 March,981,486,49.5
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,813,North Lincolnshire,E06000013,CINO at 31 March,473,252,53.3
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,815,North Yorkshire,E10000023,CINO at 31 March,1083,432,39.9
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,372,Rotherham,E08000018,CINO at 31 March,597,345,57.8
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,373,Sheffield,E08000019,CINO at 31 March,1458,907,62.2
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,384,Wakefield,E08000036,CINO at 31 March,1269,646,50.9
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,816,York,E06000014,CINO at 31 March,581,239,41.1
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,Derby,E06000015,CINO at 31 March,1124,622,55.3
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,Derbyshire,E10000007,CINO at 31 March,2577,1313,51
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,Leicester,E06000016,CINO at 31 March,425,233,54.8
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,Leicestershire,E10000018,CINO at 31 March,1127,475,42.1
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,Lincolnshire,E10000019,CINO at 31 March,1502,747,49.7
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,928,Northamptonshire,E10000021,CINO at 31 March,1616,679,42
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,Nottingham,E06000018,CINO at 31 March,962,486,50.5
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,Nottinghamshire,E10000024,CINO at 31 March,1849,872,47.2
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,Rutland,E06000017,CINO at 31 March,69,18,26.1
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,Birmingham,E08000025,CINO at 31 March,2544,1519,59.7
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,Coventry,E08000026,CINO at 31 March,1270,597,47
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,Dudley,E08000027,CINO at 31 March,989,504,51
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,Herefordshire,E06000019,CINO at 31 March,249,86,34.5
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,Sandwell,E08000028,CINO at 31 March,1409,755,53.6
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,Shropshire,E06000051,CINO at 31 March,539,209,38.8
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,Solihull,E08000029,CINO at 31 March,415,202,48.7
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,Staffordshire,E10000028,CINO at 31 March,2178,827,38
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,Stoke-on-Trent,E06000021,CINO at 31 March,1397,745,53.3
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,Telford and Wrekin,E06000020,CINO at 31 March,287,156,54.4
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,Walsall,E08000030,CINO at 31 March,1116,652,58.4
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,Warwickshire,E10000031,CINO at 31 March,1798,772,42.9
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,Wolverhampton,E08000031,CINO at 31 March,787,399,50.7
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,Worcestershire,E10000034,CINO at 31 March,1480,593,40.1
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,822,Bedford,E06000055,CINO at 31 March,534,265,49.6
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,873,Cambridgeshire,E10000003,CINO at 31 March,1206,632,52.4
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,823,Central Bedfordshire,E06000056,CINO at 31 March,557,223,40
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,881,Essex,E10000012,CINO at 31 March,2665,1086,40.8
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,919,Hertfordshire,E10000015,CINO at 31 March,1606,644,40.1
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,821,Luton,E06000032,CINO at 31 March,570,219,38.4
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,926,Norfolk,E10000020,CINO at 31 March,1129,637,56.4
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,874,Peterborough,E06000031,CINO at 31 March,376,171,45.5
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,882,Southend-on-Sea,E06000033,CINO at 31 March,536,261,48.7
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,935,Suffolk,E10000029,CINO at 31 March,1020,468,45.9
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,883,Thurrock,E06000034,CINO at 31 March,563,245,43.5
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,867,Bracknell Forest,E06000036,CINO at 31 March,497,142,28.6
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,846,Brighton and Hove,E06000043,CINO at 31 March,814,431,52.9
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,825,Buckinghamshire,E10000002,CINO at 31 March,1480,528,35.7
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,845,East Sussex,E10000011,CINO at 31 March,1077,531,49.3
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,850,Hampshire,E10000014,CINO at 31 March,3450,1460,42.3
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,921,Isle of Wight,E06000046,CINO at 31 March,426,175,41.1
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,886,Kent,E10000016,CINO at 31 March,3959,1772,44.8
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,887,Medway,E06000035,CINO at 31 March,1026,399,38.9
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,826,Milton Keynes,E06000042,CINO at 31 March,1008,489,48.5
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,931,Oxfordshire,E10000025,CINO at 31 March,1946,738,37.9
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,851,Portsmouth,E06000044,CINO at 31 March,517,300,58
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,870,Reading,E06000038,CINO at 31 March,712,330,46.3
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,871,Slough,E06000039,CINO at 31 March,619,215,34.7
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,852,Southampton,E06000045,CINO at 31 March,1152,664,57.6
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,936,Surrey,E10000030,CINO at 31 March,2295,921,40.1
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,869,West Berkshire,E06000037,CINO at 31 March,503,193,38.4
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,938,West Sussex,E10000032,CINO at 31 March,1923,728,37.9
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,868,Windsor and Maidenhead,E06000040,CINO at 31 March,282,99,35.1
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,872,Wokingham,E06000041,CINO at 31 March,424,128,30.2
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,800,Bath and North East Somerset,E06000022,CINO at 31 March,438,216,49.3
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,837,Bournemouth (up to 2019),E06000028,CINO at 31 March,463,232,50.1
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,801,Bristol City of,E06000023,CINO at 31 March,1141,619,54.3
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,908,Cornwall,E06000052,CINO at 31 March,2056,894,43.5
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,878,Devon,E10000008,CINO at 31 March,2132,896,42
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,835,Dorset (up to 2019),E10000009,CINO at 31 March,913,521,57.1
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,916,Gloucestershire,E10000013,CINO at 31 March,1521,725,47.7
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,420,Isles Of Scilly,E06000053,CINO at 31 March,28,c,c
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,802,North Somerset,E06000024,CINO at 31 March,207,89,43
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,879,Plymouth,E06000026,CINO at 31 March,682,370,54.3
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,836,Poole (up to 2019),E06000029,CINO at 31 March,383,210,54.8
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,933,Somerset,E10000027,CINO at 31 March,968,495,51.1
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,803,South Gloucestershire,E06000025,CINO at 31 March,801,302,37.7
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,866,Swindon,E06000030,CINO at 31 March,1006,421,41.8
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,880,Torbay,E06000027,CINO at 31 March,360,220,61.1
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,865,Wiltshire,E06000054,CINO at 31 March,1177,486,41.3
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,Camden,E09000007,CINO at 31 March,586,359,61.3
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,City of London,E09000001,CINO at 31 March,16,7,43.8
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,Hackney,E09000012,CINO at 31 March,1006,579,57.6
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,Hammersmith and Fulham,E09000013,CINO at 31 March,674,356,52.8
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,Haringey,E09000014,CINO at 31 March,678,260,38.3
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,Islington,E09000019,CINO at 31 March,856,476,55.6
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,Kensington and Chelsea,E09000020,CINO at 31 March,300,175,58.3
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,Lambeth,E09000022,CINO at 31 March,816,425,52.1
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,Lewisham,E09000023,CINO at 31 March,781,372,47.6
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,Newham,E09000025,CINO at 31 March,1574,594,37.7
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,Southwark,E09000028,CINO at 31 March,860,445,51.7
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,Tower Hamlets,E09000030,CINO at 31 March,1707,933,54.7
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,Wandsworth,E09000032,CINO at 31 March,904,447,49.4
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,Westminster,E09000033,CINO at 31 March,511,262,51.3
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,Barking and Dagenham,E09000002,CINO at 31 March,1056,402,38.1
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,Barnet,E09000003,CINO at 31 March,748,332,44.4
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,Bexley,E09000004,CINO at 31 March,575,230,40
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,Brent,E09000005,CINO at 31 March,1146,381,33.2
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,Bromley,E09000006,CINO at 31 March,995,411,41.3
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,Croydon,E09000008,CINO at 31 March,1466,654,44.6
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,Ealing,E09000009,CINO at 31 March,1268,479,37.8
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,Enfield,E09000010,CINO at 31 March,523,246,47
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,Greenwich,E09000011,CINO at 31 March,1113,547,49.1
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,Harrow,E09000015,CINO at 31 March,857,285,33.3
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,Havering,E09000016,CINO at 31 March,1156,510,44.1
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,Hillingdon,E09000017,CINO at 31 March,998,440,44.1
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,Hounslow,E09000018,CINO at 31 March,767,320,41.7
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,Kingston upon Thames,E09000021,CINO at 31 March,322,122,37.9
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,Merton,E09000024,CINO at 31 March,585,244,41.7
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,Redbridge,E09000026,CINO at 31 March,610,227,37.2
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,Richmond upon Thames,E09000027,CINO at 31 March,204,93,45.6
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,Sutton,E09000029,CINO at 31 March,779,308,39.5
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,Waltham Forest,E09000031,CINO at 31 March,956,376,39.3
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,841,Darlington,E06000005,CPPO at 31 March,58,37,63.8
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,840,Durham,E06000047,CPPO at 31 March,261,169,64.8
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,390,Gateshead,E08000037,CPPO at 31 March,161,121,75.2
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,805,Hartlepool,E06000001,CPPO at 31 March,99,85,85.9
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,806,Middlesbrough,E06000002,CPPO at 31 March,160,114,71.3
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,391,Newcastle upon Tyne,E08000021,CPPO at 31 March,372,287,77.2
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,392,North Tyneside,E08000022,CPPO at 31 March,84,58,69
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,929,Northumberland,E06000057,CPPO at 31 March,260,165,63.5
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,807,Redcar and Cleveland,E06000003,CPPO at 31 March,86,57,66.3
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,393,South Tyneside,E08000023,CPPO at 31 March,99,72,72.7
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,808,Stockton-on-Tees,E06000004,CPPO at 31 March,175,117,66.9
+201819,Academic year,Local authority,E92000001,England,E12000001,North East,394,Sunderland,E08000024,CPPO at 31 March,274,201,73.4
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,889,Blackburn with Darwen,E06000008,CPPO at 31 March,93,63,67.7
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,890,Blackpool,E06000009,CPPO at 31 March,248,166,66.9
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,350,Bolton,E08000001,CPPO at 31 March,199,133,66.8
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,351,Bury,E08000002,CPPO at 31 March,110,85,77.3
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,895,Cheshire East,E06000049,CPPO at 31 March,181,135,74.6
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,896,Cheshire West and Chester,E06000050,CPPO at 31 March,104,87,83.7
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,909,Cumbria,E10000006,CPPO at 31 March,372,231,62.1
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,876,Halton,E06000006,CPPO at 31 March,71,58,81.7
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,340,Knowsley,E08000011,CPPO at 31 March,153,117,76.5
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,888,Lancashire,E10000017,CPPO at 31 March,580,413,71.2
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,341,Liverpool,E08000012,CPPO at 31 March,344,240,69.8
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,352,Manchester,E08000003,CPPO at 31 March,542,379,69.9
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,353,Oldham,E08000004,CPPO at 31 March,317,204,64.4
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,354,Rochdale,E08000005,CPPO at 31 March,242,164,67.8
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,355,Salford,E08000006,CPPO at 31 March,324,229,70.7
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,343,Sefton,E08000014,CPPO at 31 March,178,120,67.4
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,342,St. Helens,E08000013,CPPO at 31 March,136,84,61.8
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,356,Stockport,E08000007,CPPO at 31 March,168,118,70.2
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,357,Tameside,E08000008,CPPO at 31 March,214,163,76.2
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,358,Trafford,E08000009,CPPO at 31 March,131,82,62.6
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,877,Warrington,E06000007,CPPO at 31 March,132,80,60.6
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,359,Wigan,E08000010,CPPO at 31 March,138,99,71.7
+201819,Academic year,Local authority,E92000001,England,E12000002,North West,344,Wirral,E08000015,CPPO at 31 March,309,206,66.7
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,370,Barnsley,E08000016,CPPO at 31 March,152,102,67.1
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,380,Bradford,E08000032,CPPO at 31 March,573,348,60.7
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,381,Calderdale,E08000033,CPPO at 31 March,143,89,62.2
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,371,Doncaster,E08000017,CPPO at 31 March,196,130,66.3
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,811,East Riding of Yorkshire,E06000011,CPPO at 31 March,143,87,60.8
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,810,Kingston upon Hull City of,E06000010,CPPO at 31 March,350,248,70.9
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,382,Kirklees,E08000034,CPPO at 31 March,227,157,69.2
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,383,Leeds,E08000035,CPPO at 31 March,264,216,81.8
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,812,North East Lincolnshire,E06000012,CPPO at 31 March,177,114,64.4
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,813,North Lincolnshire,E06000013,CPPO at 31 March,95,53,55.8
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,815,North Yorkshire,E10000023,CPPO at 31 March,219,135,61.6
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,372,Rotherham,E08000018,CPPO at 31 March,221,162,73.3
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,373,Sheffield,E08000019,CPPO at 31 March,357,250,70
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,384,Wakefield,E08000036,CPPO at 31 March,320,217,67.8
+201819,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,816,York,E06000014,CPPO at 31 March,117,87,74.4
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,Derby,E06000015,CPPO at 31 March,282,188,66.7
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,Derbyshire,E10000007,CPPO at 31 March,581,429,73.8
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,Leicester,E06000016,CPPO at 31 March,188,99,52.7
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,Leicestershire,E10000018,CPPO at 31 March,202,134,66.3
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,Lincolnshire,E10000019,CPPO at 31 March,173,127,73.4
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,928,Northamptonshire,E10000021,CPPO at 31 March,409,260,63.6
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,Nottingham,E06000018,CPPO at 31 March,261,162,62.1
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,Nottinghamshire,E10000024,CPPO at 31 March,532,372,69.9
+201819,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,Rutland,E06000017,CPPO at 31 March,14,9,64.3
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,Birmingham,E08000025,CPPO at 31 March,773,598,77.4
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,Coventry,E08000026,CPPO at 31 March,224,137,61.2
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,Dudley,E08000027,CPPO at 31 March,261,168,64.4
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,Herefordshire,E06000019,CPPO at 31 March,56,31,55.4
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,Sandwell,E08000028,CPPO at 31 March,370,235,63.5
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,Shropshire,E06000051,CPPO at 31 March,205,120,58.5
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,Solihull,E08000029,CPPO at 31 March,137,98,71.5
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,Staffordshire,E10000028,CPPO at 31 March,456,278,61
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,Stoke-on-Trent,E06000021,CPPO at 31 March,183,129,70.5
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,Telford and Wrekin,E06000020,CPPO at 31 March,63,38,60.3
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,Walsall,E08000030,CPPO at 31 March,222,157,70.7
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,Warwickshire,E10000031,CPPO at 31 March,204,126,61.8
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,Wolverhampton,E08000031,CPPO at 31 March,218,152,69.7
+201819,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,Worcestershire,E10000034,CPPO at 31 March,241,156,64.7
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,822,Bedford,E06000055,CPPO at 31 March,43,32,74.4
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,873,Cambridgeshire,E10000003,CPPO at 31 March,348,230,66.1
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,823,Central Bedfordshire,E06000056,CPPO at 31 March,128,83,64.8
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,881,Essex,E10000012,CPPO at 31 March,343,222,64.7
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,919,Hertfordshire,E10000015,CPPO at 31 March,202,121,59.9
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,821,Luton,E06000032,CPPO at 31 March,94,63,67
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,926,Norfolk,E10000020,CPPO at 31 March,300,234,78
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,874,Peterborough,E06000031,CPPO at 31 March,67,44,65.7
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,882,Southend-on-Sea,E06000033,CPPO at 31 March,98,67,68.4
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,935,Suffolk,E10000029,CPPO at 31 March,256,159,62.1
+201819,Academic year,Local authority,E92000001,England,E12000006,East of England,883,Thurrock,E06000034,CPPO at 31 March,56,32,57.1
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,867,Bracknell Forest,E06000036,CPPO at 31 March,83,36,43.4
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,846,Brighton and Hove,E06000043,CPPO at 31 March,186,135,72.6
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,825,Buckinghamshire,E10000002,CPPO at 31 March,357,201,56.3
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,845,East Sussex,E10000011,CPPO at 31 March,359,272,75.8
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,850,Hampshire,E10000014,CPPO at 31 March,665,394,59.2
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,921,Isle of Wight,E06000046,CPPO at 31 March,90,63,70
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,886,Kent,E10000016,CPPO at 31 March,749,496,66.2
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,887,Medway,E06000035,CPPO at 31 March,224,126,56.3
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,826,Milton Keynes,E06000042,CPPO at 31 March,83,53,63.9
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,931,Oxfordshire,E10000025,CPPO at 31 March,390,249,63.8
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,851,Portsmouth,E06000044,CPPO at 31 March,106,80,75.5
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,870,Reading,E06000038,CPPO at 31 March,175,106,60.6
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,871,Slough,E06000039,CPPO at 31 March,138,72,52.2
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,852,Southampton,E06000045,CPPO at 31 March,179,136,76
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,936,Surrey,E10000030,CPPO at 31 March,527,323,61.3
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,869,West Berkshire,E06000037,CPPO at 31 March,77,46,59.7
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,938,West Sussex,E10000032,CPPO at 31 March,355,191,53.8
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,868,Windsor and Maidenhead,E06000040,CPPO at 31 March,48,21,43.8
+201819,Academic year,Local authority,E92000001,England,E12000008,South East,872,Wokingham,E06000041,CPPO at 31 March,82,38,46.3
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,800,Bath and North East Somerset,E06000022,CPPO at 31 March,58,43,74.1
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,837,Bournemouth (up to 2019),E06000028,CPPO at 31 March,95,46,48.4
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,801,Bristol City of,E06000023,CPPO at 31 March,228,167,73.2
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,908,Cornwall,E06000052,CPPO at 31 March,285,195,68.4
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,878,Devon,E10000008,CPPO at 31 March,347,221,63.7
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,835,Dorset (up to 2019),E10000009,CPPO at 31 March,171,120,70.2
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,916,Gloucestershire,E10000013,CPPO at 31 March,466,276,59.2
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,420,Isles Of Scilly,E06000053,CPPO at 31 March,0,z,z
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,802,North Somerset,E06000024,CPPO at 31 March,39,36,92.3
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,879,Plymouth,E06000026,CPPO at 31 March,170,135,79.4
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,836,Poole (up to 2019),E06000029,CPPO at 31 March,39,15,38.5
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,933,Somerset,E10000027,CPPO at 31 March,244,168,68.9
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,803,South Gloucestershire,E06000025,CPPO at 31 March,109,58,53.2
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,866,Swindon,E06000030,CPPO at 31 March,221,140,63.3
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,880,Torbay,E06000027,CPPO at 31 March,106,71,67
+201819,Academic year,Local authority,E92000001,England,E12000009,South West,865,Wiltshire,E06000054,CPPO at 31 March,236,126,53.4
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,Camden,E09000007,CPPO at 31 March,193,131,67.9
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,City of London,E09000001,CPPO at 31 March,c,c,c
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,Hackney,E09000012,CPPO at 31 March,88,65,73.9
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,Hammersmith and Fulham,E09000013,CPPO at 31 March,85,45,52.9
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,Haringey,E09000014,CPPO at 31 March,103,51,49.5
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,Islington,E09000019,CPPO at 31 March,125,98,78.4
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,Kensington and Chelsea,E09000020,CPPO at 31 March,26,17,65.4
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,Lambeth,E09000022,CPPO at 31 March,131,75,57.3
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,Lewisham,E09000023,CPPO at 31 March,143,94,65.7
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,Newham,E09000025,CPPO at 31 March,174,66,37.9
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,Southwark,E09000028,CPPO at 31 March,224,144,64.3
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,Tower Hamlets,E09000030,CPPO at 31 March,187,134,71.7
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,Wandsworth,E09000032,CPPO at 31 March,114,58,50.9
+201819,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,Westminster,E09000033,CPPO at 31 March,38,28,73.7
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,Barking and Dagenham,E09000002,CPPO at 31 March,180,111,61.7
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,Barnet,E09000003,CPPO at 31 March,107,53,49.5
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,Bexley,E09000004,CPPO at 31 March,66,39,59.1
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,Brent,E09000005,CPPO at 31 March,191,93,48.7
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,Bromley,E09000006,CPPO at 31 March,143,80,55.9
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,Croydon,E09000008,CPPO at 31 March,467,287,61.5
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,Ealing,E09000009,CPPO at 31 March,128,67,52.3
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,Enfield,E09000010,CPPO at 31 March,48,28,58.3
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,Greenwich,E09000011,CPPO at 31 March,140,90,64.3
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,Harrow,E09000015,CPPO at 31 March,162,77,47.5
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,Havering,E09000016,CPPO at 31 March,118,80,67.8
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,Hillingdon,E09000017,CPPO at 31 March,241,133,55.2
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,Hounslow,E09000018,CPPO at 31 March,168,92,54.8
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,Kingston upon Thames,E09000021,CPPO at 31 March,81,50,61.7
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,Merton,E09000024,CPPO at 31 March,126,72,57.1
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,Redbridge,E09000026,CPPO at 31 March,91,48,52.7
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,Richmond upon Thames,E09000027,CPPO at 31 March,52,37,71.2
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,Sutton,E09000029,CPPO at 31 March,121,85,70.2
+201819,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,Waltham Forest,E09000031,CPPO at 31 March,142,69,48.6
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,841,Darlington,E06000005,CINO at 31 March,360,156,43.3
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,840,Durham,E06000047,CINO at 31 March,1414,762,53.9
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,390,Gateshead,E08000037,CINO at 31 March,633,287,45.3
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,805,Hartlepool,E06000001,CINO at 31 March,625,361,57.8
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,806,Middlesbrough,E06000002,CINO at 31 March,986,554,56.2
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,391,Newcastle upon Tyne,E08000021,CINO at 31 March,1071,633,59.1
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,392,North Tyneside,E08000022,CINO at 31 March,464,179,38.6
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,929,Northumberland,E06000057,CINO at 31 March,1240,555,44.8
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,807,Redcar and Cleveland,E06000003,CINO at 31 March,586,296,50.5
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,393,South Tyneside,E08000023,CINO at 31 March,464,232,50
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,808,Stockton-on-Tees,E06000004,CINO at 31 March,957,462,48.3
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,394,Sunderland,E08000024,CINO at 31 March,1126,649,57.6
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,889,Blackburn with Darwen,E06000008,CINO at 31 March,333,149,44.7
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,890,Blackpool,E06000009,CINO at 31 March,624,326,52.2
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,350,Bolton,E08000001,CINO at 31 March,732,350,47.8
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,351,Bury,E08000002,CINO at 31 March,461,214,46.4
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,895,Cheshire East,E06000049,CINO at 31 March,788,323,41
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,896,Cheshire West and Chester,E06000050,CINO at 31 March,757,402,53.1
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,909,Cumbria,E10000006,CINO at 31 March,1296,506,39
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,876,Halton,E06000006,CINO at 31 March,481,321,66.7
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,340,Knowsley,E08000011,CINO at 31 March,443,291,65.7
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,888,Lancashire,E10000017,CINO at 31 March,2688,1242,46.2
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,341,Liverpool,E08000012,CINO at 31 March,1279,703,55
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,352,Manchester,E08000003,CINO at 31 March,1276,830,65
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,353,Oldham,E08000004,CINO at 31 March,1097,499,45.5
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,354,Rochdale,E08000005,CINO at 31 March,831,398,47.9
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,355,Salford,E08000006,CINO at 31 March,887,478,53.9
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,343,Sefton,E08000014,CINO at 31 March,903,468,51.8
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,342,St. Helens,E08000013,CINO at 31 March,545,248,45.5
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,356,Stockport,E08000007,CINO at 31 March,800,384,48
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,357,Tameside,E08000008,CINO at 31 March,824,370,44.9
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,358,Trafford,E08000009,CINO at 31 March,500,192,38.4
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,877,Warrington,E06000007,CINO at 31 March,394,190,48.2
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,359,Wigan,E08000010,CINO at 31 March,636,294,46.2
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,344,Wirral,E08000015,CINO at 31 March,1131,580,51.3
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,370,Barnsley,E08000016,CINO at 31 March,679,370,54.5
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,380,Bradford,E08000032,CINO at 31 March,1783,774,43.4
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,381,Calderdale,E08000033,CINO at 31 March,521,263,50.5
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,371,Doncaster,E08000017,CINO at 31 March,1202,584,48.6
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,811,East Riding of Yorkshire,E06000011,CINO at 31 March,946,374,39.5
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,810,Kingston upon Hull City of,E06000010,CINO at 31 March,1621,899,55.5
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,382,Kirklees,E08000034,CINO at 31 March,802,453,56.5
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,383,Leeds,E08000035,CINO at 31 March,2390,1131,47.3
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,812,North East Lincolnshire,E06000012,CINO at 31 March,981,375,38.2
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,813,North Lincolnshire,E06000013,CINO at 31 March,425,199,46.8
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,815,North Yorkshire,E10000023,CINO at 31 March,1263,428,33.9
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,372,Rotherham,E08000018,CINO at 31 March,752,394,52.4
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,373,Sheffield,E08000019,CINO at 31 March,1512,832,55
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,384,Wakefield,E08000036,CINO at 31 March,1527,676,44.3
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,816,York,E06000014,CINO at 31 March,690,265,38.4
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,Derby,E06000015,CINO at 31 March,1040,494,47.5
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,Derbyshire,E10000007,CINO at 31 March,2480,1208,48.7
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,Leicester,E06000016,CINO at 31 March,707,342,48.4
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,Leicestershire,E10000018,CINO at 31 March,741,270,36.4
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,Lincolnshire,E10000019,CINO at 31 March,1454,651,44.8
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,928,Northamptonshire,E10000021,CINO at 31 March,2094,750,35.8
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,Nottingham,E06000018,CINO at 31 March,862,394,45.7
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,Nottinghamshire,E10000024,CINO at 31 March,1733,747,43.1
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,Rutland,E06000017,CINO at 31 March,115,35,30.4
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,Birmingham,E08000025,CINO at 31 March,2935,1567,53.4
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,Coventry,E08000026,CINO at 31 March,1462,661,45.2
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,Dudley,E08000027,CINO at 31 March,975,361,37
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,Herefordshire,E06000019,CINO at 31 March,425,118,27.8
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,Sandwell,E08000028,CINO at 31 March,1227,685,55.8
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,Shropshire,E06000051,CINO at 31 March,462,160,34.6
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,Solihull,E08000029,CINO at 31 March,506,217,42.9
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,Staffordshire,E10000028,CINO at 31 March,2569,903,35.1
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,Stoke-on-Trent,E06000021,CINO at 31 March,1320,630,47.7
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,Telford and Wrekin,E06000020,CINO at 31 March,242,102,42.1
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,Walsall,E08000030,CINO at 31 March,940,508,54
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,Warwickshire,E10000031,CINO at 31 March,1617,618,38.2
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,Wolverhampton,E08000031,CINO at 31 March,959,434,45.3
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,Worcestershire,E10000034,CINO at 31 March,1334,551,41.3
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,822,Bedford,E06000055,CINO at 31 March,694,324,46.7
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,873,Cambridgeshire,E10000003,CINO at 31 March,1356,609,44.9
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,823,Central Bedfordshire,E06000056,CINO at 31 March,555,223,40.2
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,881,Essex,E10000012,CINO at 31 March,3317,1214,36.6
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,919,Hertfordshire,E10000015,CINO at 31 March,1801,647,35.9
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,821,Luton,E06000032,CINO at 31 March,901,337,37.4
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,926,Norfolk,E10000020,CINO at 31 March,1537,675,43.9
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,874,Peterborough,E06000031,CINO at 31 March,353,133,37.7
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,882,Southend-on-Sea,E06000033,CINO at 31 March,509,252,49.5
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,935,Suffolk,E10000029,CINO at 31 March,1323,597,45.1
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,883,Thurrock,E06000034,CINO at 31 March,630,206,32.7
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,867,Bracknell Forest,E06000036,CINO at 31 March,482,150,31.1
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,846,Brighton and Hove,E06000043,CINO at 31 March,801,377,47.1
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,825,Buckinghamshire,E10000002,CINO at 31 March,1730,493,28.5
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,845,East Sussex,E10000011,CINO at 31 March,1105,551,49.9
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,850,Hampshire,E10000014,CINO at 31 March,3149,1113,35.3
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,921,Isle of Wight,E06000046,CINO at 31 March,450,177,39.3
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,886,Kent,E10000016,CINO at 31 March,3560,1447,40.6
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,887,Medway,E06000035,CINO at 31 March,716,310,43.3
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,826,Milton Keynes,E06000042,CINO at 31 March,798,288,36.1
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,931,Oxfordshire,E10000025,CINO at 31 March,1852,605,32.7
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,851,Portsmouth,E06000044,CINO at 31 March,597,309,51.8
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,870,Reading,E06000038,CINO at 31 March,669,300,44.8
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,871,Slough,E06000039,CINO at 31 March,557,181,32.5
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,852,Southampton,E06000045,CINO at 31 March,909,424,46.6
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,936,Surrey,E10000030,CINO at 31 March,2941,1058,36
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,869,West Berkshire,E06000037,CINO at 31 March,444,131,29.5
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,938,West Sussex,E10000032,CINO at 31 March,3093,998,32.3
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,868,Windsor and Maidenhead,E06000040,CINO at 31 March,327,124,37.9
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,872,Wokingham,E06000041,CINO at 31 March,486,138,28.4
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,800,Bath and North East Somerset,E06000022,CINO at 31 March,435,165,37.9
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,837,Bournemouth (up to 2019),E06000028,CINO at 31 March,372,168,45.2
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,801,Bristol City of,E06000023,CINO at 31 March,1232,665,54
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,908,Cornwall,E06000052,CINO at 31 March,1794,636,35.5
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,878,Devon,E10000008,CINO at 31 March,1687,777,46.1
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,835,Dorset (up to 2019),E10000009,CINO at 31 March,754,396,52.5
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,916,Gloucestershire,E10000013,CINO at 31 March,1449,640,44.2
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,420,Isles Of Scilly,E06000053,CINO at 31 March,33,c,c
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,802,North Somerset,E06000024,CINO at 31 March,277,87,31.4
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,879,Plymouth,E06000026,CINO at 31 March,787,333,42.3
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,836,Poole (up to 2019),E06000029,CINO at 31 March,502,226,45
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,933,Somerset,E10000027,CINO at 31 March,1408,682,48.4
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,803,South Gloucestershire,E06000025,CINO at 31 March,764,266,34.8
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,866,Swindon,E06000030,CINO at 31 March,1280,507,39.6
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,880,Torbay,E06000027,CINO at 31 March,477,230,48.2
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,865,Wiltshire,E06000054,CINO at 31 March,1094,396,36.2
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,Camden,E09000007,CINO at 31 March,653,342,52.4
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,City of London,E09000001,CINO at 31 March,15,c,c
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,Hackney,E09000012,CINO at 31 March,1148,619,53.9
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,Hammersmith and Fulham,E09000013,CINO at 31 March,575,302,52.5
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,Haringey,E09000014,CINO at 31 March,892,305,34.2
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,Islington,E09000019,CINO at 31 March,862,450,52.2
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,Kensington and Chelsea,E09000020,CINO at 31 March,316,149,47.2
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,Lambeth,E09000022,CINO at 31 March,802,398,49.6
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,Lewisham,E09000023,CINO at 31 March,918,411,44.8
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,Newham,E09000025,CINO at 31 March,1831,592,32.3
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,Southwark,E09000028,CINO at 31 March,1105,495,44.8
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,Tower Hamlets,E09000030,CINO at 31 March,1437,778,54.1
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,Wandsworth,E09000032,CINO at 31 March,1146,516,45
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,Westminster,E09000033,CINO at 31 March,474,219,46.2
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,Barking and Dagenham,E09000002,CINO at 31 March,802,296,36.9
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,Barnet,E09000003,CINO at 31 March,416,182,43.8
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,Bexley,E09000004,CINO at 31 March,639,218,34.1
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,Brent,E09000005,CINO at 31 March,1366,445,32.6
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,Bromley,E09000006,CINO at 31 March,804,266,33.1
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,Croydon,E09000008,CINO at 31 March,2098,926,44.1
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,Ealing,E09000009,CINO at 31 March,1042,356,34.2
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,Enfield,E09000010,CINO at 31 March,587,273,46.5
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,Greenwich,E09000011,CINO at 31 March,1101,471,42.8
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,Harrow,E09000015,CINO at 31 March,689,184,26.7
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,Havering,E09000016,CINO at 31 March,1123,415,37
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,Hillingdon,E09000017,CINO at 31 March,1040,412,39.6
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,Hounslow,E09000018,CINO at 31 March,818,307,37.5
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,Kingston upon Thames,E09000021,CINO at 31 March,257,73,28.4
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,Merton,E09000024,CINO at 31 March,575,259,45
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,Redbridge,E09000026,CINO at 31 March,680,249,36.6
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,Richmond upon Thames,E09000027,CINO at 31 March,205,67,32.7
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,Sutton,E09000029,CINO at 31 March,688,256,37.2
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,Waltham Forest,E09000031,CINO at 31 March,1296,403,31.1
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,841,Darlington,E06000005,CPPO at 31 March,69,45,65.2
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,840,Durham,E06000047,CPPO at 31 March,312,221,70.8
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,390,Gateshead,E08000037,CPPO at 31 March,181,119,65.7
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,805,Hartlepool,E06000001,CPPO at 31 March,129,94,72.9
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,806,Middlesbrough,E06000002,CPPO at 31 March,181,120,66.3
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,391,Newcastle upon Tyne,E08000021,CPPO at 31 March,284,218,76.8
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,392,North Tyneside,E08000022,CPPO at 31 March,91,54,59.3
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,929,Northumberland,E06000057,CPPO at 31 March,223,132,59.2
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,807,Redcar and Cleveland,E06000003,CPPO at 31 March,100,52,52
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,393,South Tyneside,E08000023,CPPO at 31 March,146,106,72.6
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,808,Stockton-on-Tees,E06000004,CPPO at 31 March,142,91,64.1
+201718,Academic year,Local authority,E92000001,England,E12000001,North East,394,Sunderland,E08000024,CPPO at 31 March,337,218,64.7
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,889,Blackburn with Darwen,E06000008,CPPO at 31 March,113,73,64.6
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,890,Blackpool,E06000009,CPPO at 31 March,169,121,71.6
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,350,Bolton,E08000001,CPPO at 31 March,155,99,63.9
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,351,Bury,E08000002,CPPO at 31 March,118,78,66.1
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,895,Cheshire East,E06000049,CPPO at 31 March,190,110,57.9
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,896,Cheshire West and Chester,E06000050,CPPO at 31 March,127,96,75.6
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,909,Cumbria,E10000006,CPPO at 31 March,394,230,58.4
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,876,Halton,E06000006,CPPO at 31 March,111,92,82.9
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,340,Knowsley,E08000011,CPPO at 31 March,118,87,73.7
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,888,Lancashire,E10000017,CPPO at 31 March,563,374,66.4
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,341,Liverpool,E08000012,CPPO at 31 March,207,127,61.4
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,352,Manchester,E08000003,CPPO at 31 March,681,467,68.6
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,353,Oldham,E08000004,CPPO at 31 March,336,202,60.1
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,354,Rochdale,E08000005,CPPO at 31 March,165,114,69.1
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,355,Salford,E08000006,CPPO at 31 March,224,162,72.3
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,343,Sefton,E08000014,CPPO at 31 March,162,116,71.6
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,342,St. Helens,E08000013,CPPO at 31 March,58,39,67.2
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,356,Stockport,E08000007,CPPO at 31 March,225,143,63.6
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,357,Tameside,E08000008,CPPO at 31 March,334,222,66.5
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,358,Trafford,E08000009,CPPO at 31 March,175,103,58.9
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,877,Warrington,E06000007,CPPO at 31 March,117,76,65
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,359,Wigan,E08000010,CPPO at 31 March,115,71,61.7
+201718,Academic year,Local authority,E92000001,England,E12000002,North West,344,Wirral,E08000015,CPPO at 31 March,184,115,62.5
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,370,Barnsley,E08000016,CPPO at 31 March,116,83,71.6
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,380,Bradford,E08000032,CPPO at 31 March,378,232,61.4
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,381,Calderdale,E08000033,CPPO at 31 March,139,99,71.2
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,371,Doncaster,E08000017,CPPO at 31 March,221,119,53.8
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,811,East Riding of Yorkshire,E06000011,CPPO at 31 March,136,69,50.7
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,810,Kingston upon Hull City of,E06000010,CPPO at 31 March,304,221,72.7
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,382,Kirklees,E08000034,CPPO at 31 March,229,176,76.9
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,383,Leeds,E08000035,CPPO at 31 March,334,240,71.9
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,812,North East Lincolnshire,E06000012,CPPO at 31 March,166,98,59
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,813,North Lincolnshire,E06000013,CPPO at 31 March,64,39,60.9
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,815,North Yorkshire,E10000023,CPPO at 31 March,301,167,55.5
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,372,Rotherham,E08000018,CPPO at 31 March,344,215,62.5
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,373,Sheffield,E08000019,CPPO at 31 March,282,194,68.8
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,384,Wakefield,E08000036,CPPO at 31 March,159,105,66
+201718,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,816,York,E06000014,CPPO at 31 March,106,57,53.8
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,Derby,E06000015,CPPO at 31 March,320,207,64.7
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,Derbyshire,E10000007,CPPO at 31 March,605,393,65
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,Leicester,E06000016,CPPO at 31 March,374,225,60.2
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,Leicestershire,E10000018,CPPO at 31 March,212,134,63.2
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,Lincolnshire,E10000019,CPPO at 31 March,167,112,67.1
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,928,Northamptonshire,E10000021,CPPO at 31 March,468,253,54.1
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,Nottingham,E06000018,CPPO at 31 March,295,186,63.1
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,Nottinghamshire,E10000024,CPPO at 31 March,511,345,67.5
+201718,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,Rutland,E06000017,CPPO at 31 March,12,c,c
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,Birmingham,E08000025,CPPO at 31 March,704,506,71.9
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,Coventry,E08000026,CPPO at 31 March,315,207,65.7
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,Dudley,E08000027,CPPO at 31 March,262,158,60.3
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,Herefordshire,E06000019,CPPO at 31 March,122,68,55.7
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,Sandwell,E08000028,CPPO at 31 March,542,347,64
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,Shropshire,E06000051,CPPO at 31 March,120,61,50.8
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,Solihull,E08000029,CPPO at 31 March,129,73,56.6
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,Staffordshire,E10000028,CPPO at 31 March,373,221,59.2
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,Stoke-on-Trent,E06000021,CPPO at 31 March,163,111,68.1
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,Telford and Wrekin,E06000020,CPPO at 31 March,82,52,63.4
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,Walsall,E08000030,CPPO at 31 March,273,173,63.4
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,Warwickshire,E10000031,CPPO at 31 March,312,186,59.6
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,Wolverhampton,E08000031,CPPO at 31 March,232,148,63.8
+201718,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,Worcestershire,E10000034,CPPO at 31 March,243,152,62.6
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,822,Bedford,E06000055,CPPO at 31 March,101,56,55.4
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,873,Cambridgeshire,E10000003,CPPO at 31 March,306,190,62.1
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,823,Central Bedfordshire,E06000056,CPPO at 31 March,137,81,59.1
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,881,Essex,E10000012,CPPO at 31 March,365,226,61.9
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,919,Hertfordshire,E10000015,CPPO at 31 March,228,119,52.2
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,821,Luton,E06000032,CPPO at 31 March,129,79,61.2
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,926,Norfolk,E10000020,CPPO at 31 March,317,220,69.4
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,874,Peterborough,E06000031,CPPO at 31 March,74,50,67.6
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,882,Southend-on-Sea,E06000033,CPPO at 31 March,68,52,76.5
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,935,Suffolk,E10000029,CPPO at 31 March,235,151,64.3
+201718,Academic year,Local authority,E92000001,England,E12000006,East of England,883,Thurrock,E06000034,CPPO at 31 March,109,65,59.6
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,867,Bracknell Forest,E06000036,CPPO at 31 March,74,27,36.5
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,846,Brighton and Hove,E06000043,CPPO at 31 March,252,177,70.2
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,825,Buckinghamshire,E10000002,CPPO at 31 March,445,200,44.9
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,845,East Sussex,E10000011,CPPO at 31 March,331,232,70.1
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,850,Hampshire,E10000014,CPPO at 31 March,764,437,57.2
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,921,Isle of Wight,E06000046,CPPO at 31 March,106,57,53.8
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,886,Kent,E10000016,CPPO at 31 March,855,574,67.1
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,887,Medway,E06000035,CPPO at 31 March,199,122,61.3
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,826,Milton Keynes,E06000042,CPPO at 31 March,58,30,51.7
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,931,Oxfordshire,E10000025,CPPO at 31 March,456,236,51.8
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,851,Portsmouth,E06000044,CPPO at 31 March,174,129,74.1
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,870,Reading,E06000038,CPPO at 31 March,203,128,63.1
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,871,Slough,E06000039,CPPO at 31 March,111,65,58.6
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,852,Southampton,E06000045,CPPO at 31 March,210,150,71.4
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,936,Surrey,E10000030,CPPO at 31 March,585,308,52.6
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,869,West Berkshire,E06000037,CPPO at 31 March,106,52,49.1
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,938,West Sussex,E10000032,CPPO at 31 March,449,231,51.4
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,868,Windsor and Maidenhead,E06000040,CPPO at 31 March,54,20,37
+201718,Academic year,Local authority,E92000001,England,E12000008,South East,872,Wokingham,E06000041,CPPO at 31 March,74,35,47.3
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,800,Bath and North East Somerset,E06000022,CPPO at 31 March,110,91,82.7
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,837,Bournemouth (up to 2019),E06000028,CPPO at 31 March,102,57,55.9
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,801,Bristol City of,E06000023,CPPO at 31 March,254,167,65.7
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,908,Cornwall,E06000052,CPPO at 31 March,242,136,56.2
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,878,Devon,E10000008,CPPO at 31 March,325,210,64.6
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,835,Dorset (up to 2019),E10000009,CPPO at 31 March,131,88,67.2
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,916,Gloucestershire,E10000013,CPPO at 31 March,404,229,56.7
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,420,Isles Of Scilly,E06000053,CPPO at 31 March,c,c,c
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,802,North Somerset,E06000024,CPPO at 31 March,44,35,79.5
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,879,Plymouth,E06000026,CPPO at 31 March,190,123,64.7
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,836,Poole (up to 2019),E06000029,CPPO at 31 March,74,49,66.2
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,933,Somerset,E10000027,CPPO at 31 March,245,154,62.9
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,803,South Gloucestershire,E06000025,CPPO at 31 March,149,67,45
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,866,Swindon,E06000030,CPPO at 31 March,250,133,53.2
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,880,Torbay,E06000027,CPPO at 31 March,89,68,76.4
+201718,Academic year,Local authority,E92000001,England,E12000009,South West,865,Wiltshire,E06000054,CPPO at 31 March,211,114,54
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,Camden,E09000007,CPPO at 31 March,174,127,73
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,City of London,E09000001,CPPO at 31 March,c,c,c
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,Hackney,E09000012,CPPO at 31 March,113,79,69.9
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,Hammersmith and Fulham,E09000013,CPPO at 31 March,68,40,58.8
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,Haringey,E09000014,CPPO at 31 March,207,92,44.4
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,Islington,E09000019,CPPO at 31 March,155,108,69.7
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,Kensington and Chelsea,E09000020,CPPO at 31 March,48,32,66.7
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,Lambeth,E09000022,CPPO at 31 March,132,91,68.9
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,Lewisham,E09000023,CPPO at 31 March,198,100,50.5
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,Newham,E09000025,CPPO at 31 March,226,89,39.4
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,Southwark,E09000028,CPPO at 31 March,241,137,56.8
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,Tower Hamlets,E09000030,CPPO at 31 March,216,125,57.9
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,Wandsworth,E09000032,CPPO at 31 March,156,86,55.1
+201718,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,Westminster,E09000033,CPPO at 31 March,36,25,69.4
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,Barking and Dagenham,E09000002,CPPO at 31 March,198,105,53
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,Barnet,E09000003,CPPO at 31 March,66,35,53
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,Bexley,E09000004,CPPO at 31 March,88,44,50
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,Brent,E09000005,CPPO at 31 March,215,83,38.6
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,Bromley,E09000006,CPPO at 31 March,133,78,58.6
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,Croydon,E09000008,CPPO at 31 March,350,217,62
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,Ealing,E09000009,CPPO at 31 March,163,86,52.8
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,Enfield,E09000010,CPPO at 31 March,63,33,52.4
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,Greenwich,E09000011,CPPO at 31 March,190,112,58.9
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,Harrow,E09000015,CPPO at 31 March,166,63,38
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,Havering,E09000016,CPPO at 31 March,128,75,58.6
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,Hillingdon,E09000017,CPPO at 31 March,248,147,59.3
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,Hounslow,E09000018,CPPO at 31 March,164,81,49.4
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,Kingston upon Thames,E09000021,CPPO at 31 March,93,41,44.1
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,Merton,E09000024,CPPO at 31 March,129,73,56.6
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,Redbridge,E09000026,CPPO at 31 March,93,40,43
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,Richmond upon Thames,E09000027,CPPO at 31 March,39,24,61.5
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,Sutton,E09000029,CPPO at 31 March,176,107,60.8
+201718,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,Waltham Forest,E09000031,CPPO at 31 March,118,63,53.4
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,841,Darlington,E06000005,CINO at 31 March,357,188,52.7
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,840,Durham,E06000047,CINO at 31 March,1692,910,53.8
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,390,Gateshead,E08000037,CINO at 31 March,695,320,46
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,805,Hartlepool,E06000001,CINO at 31 March,643,317,49.3
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,806,Middlesbrough,E06000002,CINO at 31 March,868,469,54
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,391,Newcastle upon Tyne,E08000021,CINO at 31 March,1006,544,54.1
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,392,North Tyneside,E08000022,CINO at 31 March,579,255,44
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,929,Northumberland,E06000057,CINO at 31 March,1168,477,40.8
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,807,Redcar and Cleveland,E06000003,CINO at 31 March,565,283,50.1
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,393,South Tyneside,E08000023,CINO at 31 March,486,252,51.9
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,808,Stockton-on-Tees,E06000004,CINO at 31 March,863,426,49.4
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,394,Sunderland,E08000024,CINO at 31 March,1136,604,53.2
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,889,Blackburn with Darwen,E06000008,CINO at 31 March,389,176,45.2
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,890,Blackpool,E06000009,CINO at 31 March,742,441,59.4
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,350,Bolton,E08000001,CINO at 31 March,794,413,52
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,351,Bury,E08000002,CINO at 31 March,559,262,46.9
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,895,Cheshire East,E06000049,CINO at 31 March,732,328,44.8
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,896,Cheshire West and Chester,E06000050,CINO at 31 March,868,409,47.1
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,909,Cumbria,E10000006,CINO at 31 March,1286,485,37.7
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,876,Halton,E06000006,CINO at 31 March,421,276,65.6
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,340,Knowsley,E08000011,CINO at 31 March,437,278,63.6
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,888,Lancashire,E10000017,CINO at 31 March,2533,1135,44.8
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,341,Liverpool,E08000012,CINO at 31 March,1137,629,55.3
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,352,Manchester,E08000003,CINO at 31 March,1314,888,67.6
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,353,Oldham,E08000004,CINO at 31 March,1041,432,41.5
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,354,Rochdale,E08000005,CINO at 31 March,703,329,46.8
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,355,Salford,E08000006,CINO at 31 March,993,527,53.1
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,343,Sefton,E08000014,CINO at 31 March,743,407,54.8
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,342,St. Helens,E08000013,CINO at 31 March,758,369,48.7
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,356,Stockport,E08000007,CINO at 31 March,749,375,50.1
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,357,Tameside,E08000008,CINO at 31 March,1109,525,47.3
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,358,Trafford,E08000009,CINO at 31 March,505,224,44.4
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,877,Warrington,E06000007,CINO at 31 March,541,263,48.6
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,359,Wigan,E08000010,CINO at 31 March,868,375,43.2
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,344,Wirral,E08000015,CINO at 31 March,1071,525,49
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,370,Barnsley,E08000016,CINO at 31 March,659,399,60.5
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,380,Bradford,E08000032,CINO at 31 March,1539,704,45.7
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,381,Calderdale,E08000033,CINO at 31 March,498,257,51.6
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,371,Doncaster,E08000017,CINO at 31 March,946,460,48.6
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,811,East Riding of Yorkshire,E06000011,CINO at 31 March,945,386,40.8
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,810,Kingston upon Hull City of,E06000010,CINO at 31 March,1396,820,58.7
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,382,Kirklees,E08000034,CINO at 31 March,1328,750,56.5
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,383,Leeds,E08000035,CINO at 31 March,2484,1215,48.9
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,812,North East Lincolnshire,E06000012,CINO at 31 March,960,384,40
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,813,North Lincolnshire,E06000013,CINO at 31 March,334,184,55.1
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,815,North Yorkshire,E10000023,CINO at 31 March,1066,326,30.6
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,372,Rotherham,E08000018,CINO at 31 March,1081,532,49.2
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,373,Sheffield,E08000019,CINO at 31 March,1922,1042,54.2
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,384,Wakefield,E08000036,CINO at 31 March,1036,447,43.1
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,816,York,E06000014,CINO at 31 March,574,245,42.7
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,Derby,E06000015,CINO at 31 March,1144,514,44.9
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,Derbyshire,E10000007,CINO at 31 March,2343,1112,47.5
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,Leicester,E06000016,CINO at 31 March,602,318,52.8
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,Leicestershire,E10000018,CINO at 31 March,1207,437,36.2
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,Lincolnshire,E10000019,CINO at 31 March,2021,900,44.5
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,928,Northamptonshire,E10000021,CINO at 31 March,1870,814,43.5
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,Nottingham,E06000018,CINO at 31 March,1213,624,51.4
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,Nottinghamshire,E10000024,CINO at 31 March,1625,743,45.7
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,Rutland,E06000017,CINO at 31 March,102,30,29.4
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,Birmingham,E08000025,CINO at 31 March,2860,1476,51.6
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,Coventry,E08000026,CINO at 31 March,1481,629,42.5
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,Dudley,E08000027,CINO at 31 March,958,341,35.6
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,Herefordshire,E06000019,CINO at 31 March,373,109,29.2
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,Sandwell,E08000028,CINO at 31 March,886,457,51.6
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,Shropshire,E06000051,CINO at 31 March,410,154,37.6
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,Solihull,E08000029,CINO at 31 March,462,202,43.7
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,Staffordshire,E10000028,CINO at 31 March,2432,925,38
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,Stoke-on-Trent,E06000021,CINO at 31 March,1530,818,53.5
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,Telford and Wrekin,E06000020,CINO at 31 March,230,126,54.8
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,Walsall,E08000030,CINO at 31 March,979,511,52.2
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,Warwickshire,E10000031,CINO at 31 March,1533,568,37.1
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,Wolverhampton,E08000031,CINO at 31 March,1419,653,46
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,Worcestershire,E10000034,CINO at 31 March,1775,730,41.1
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,822,Bedford,E06000055,CINO at 31 March,579,233,40.2
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,873,Cambridgeshire,E10000003,CINO at 31 March,1255,521,41.5
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,823,Central Bedfordshire,E06000056,CINO at 31 March,605,182,30.1
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,881,Essex,E10000012,CINO at 31 March,2994,1165,38.9
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,919,Hertfordshire,E10000015,CINO at 31 March,1852,662,35.7
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,821,Luton,E06000032,CINO at 31 March,908,373,41.1
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,926,Norfolk,E10000020,CINO at 31 March,1769,725,41
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,874,Peterborough,E06000031,CINO at 31 March,432,208,48.1
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,882,Southend-on-Sea,E06000033,CINO at 31 March,526,228,43.3
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,935,Suffolk,E10000029,CINO at 31 March,1308,621,47.5
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,883,Thurrock,E06000034,CINO at 31 March,562,209,37.2
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,867,Bracknell Forest,E06000036,CINO at 31 March,463,149,32.2
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,846,Brighton and Hove,E06000043,CINO at 31 March,847,437,51.6
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,825,Buckinghamshire,E10000002,CINO at 31 March,1667,524,31.4
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,845,East Sussex,E10000011,CINO at 31 March,1238,544,43.9
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,850,Hampshire,E10000014,CINO at 31 March,3644,1345,36.9
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,921,Isle of Wight,E06000046,CINO at 31 March,496,196,39.5
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,886,Kent,E10000016,CINO at 31 March,3817,1575,41.3
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,887,Medway,E06000035,CINO at 31 March,682,245,35.9
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,826,Milton Keynes,E06000042,CINO at 31 March,896,318,35.5
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,931,Oxfordshire,E10000025,CINO at 31 March,2243,816,36.4
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,851,Portsmouth,E06000044,CINO at 31 March,526,298,56.7
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,870,Reading,E06000038,CINO at 31 March,779,355,45.6
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,871,Slough,E06000039,CINO at 31 March,559,186,33.3
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,852,Southampton,E06000045,CINO at 31 March,907,508,56
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,936,Surrey,E10000030,CINO at 31 March,2638,964,36.5
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,869,West Berkshire,E06000037,CINO at 31 March,443,163,36.8
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,938,West Sussex,E10000032,CINO at 31 March,1947,696,35.7
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,868,Windsor and Maidenhead,E06000040,CINO at 31 March,481,142,29.5
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,872,Wokingham,E06000041,CINO at 31 March,374,124,33.2
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,800,Bath and North East Somerset,E06000022,CINO at 31 March,490,230,46.9
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,837,Bournemouth (up to 2019),E06000028,CINO at 31 March,273,113,41.4
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,801,Bristol City of,E06000023,CINO at 31 March,1503,788,52.4
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,908,Cornwall,E06000052,CINO at 31 March,1342,540,40.2
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,878,Devon,E10000008,CINO at 31 March,1558,780,50.1
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,835,Dorset (up to 2019),E10000009,CINO at 31 March,826,401,48.5
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,916,Gloucestershire,E10000013,CINO at 31 March,1579,781,49.5
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,420,Isles Of Scilly,E06000053,CINO at 31 March,29,c,c
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,802,North Somerset,E06000024,CINO at 31 March,353,150,42.5
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,879,Plymouth,E06000026,CINO at 31 March,897,433,48.3
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,836,Poole (up to 2019),E06000029,CINO at 31 March,410,186,45.4
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,933,Somerset,E10000027,CINO at 31 March,1368,616,45
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,803,South Gloucestershire,E06000025,CINO at 31 March,761,295,38.8
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,866,Swindon,E06000030,CINO at 31 March,849,361,42.5
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,880,Torbay,E06000027,CINO at 31 March,459,237,51.6
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,865,Wiltshire,E06000054,CINO at 31 March,1033,350,33.9
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,Camden,E09000007,CINO at 31 March,655,379,57.9
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,City of London,E09000001,CINO at 31 March,10,c,c
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,Hackney,E09000012,CINO at 31 March,1385,700,50.5
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,Hammersmith and Fulham,E09000013,CINO at 31 March,584,309,52.9
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,Haringey,E09000014,CINO at 31 March,872,318,36.5
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,Islington,E09000019,CINO at 31 March,762,452,59.3
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,Kensington and Chelsea,E09000020,CINO at 31 March,377,211,56
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,Lambeth,E09000022,CINO at 31 March,808,412,51
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,Lewisham,E09000023,CINO at 31 March,1023,466,45.6
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,Newham,E09000025,CINO at 31 March,1394,527,37.8
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,Southwark,E09000028,CINO at 31 March,1007,433,43
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,Tower Hamlets,E09000030,CINO at 31 March,1084,608,56.1
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,Wandsworth,E09000032,CINO at 31 March,807,381,47.2
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,Westminster,E09000033,CINO at 31 March,530,277,52.3
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,Barking and Dagenham,E09000002,CINO at 31 March,753,275,36.5
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,Barnet,E09000003,CINO at 31 March,336,142,42.3
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,Bexley,E09000004,CINO at 31 March,733,242,33
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,Brent,E09000005,CINO at 31 March,1127,386,34.3
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,Bromley,E09000006,CINO at 31 March,964,324,33.6
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,Croydon,E09000008,CINO at 31 March,1226,530,43.2
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,Ealing,E09000009,CINO at 31 March,1055,375,35.5
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,Enfield,E09000010,CINO at 31 March,685,304,44.4
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,Greenwich,E09000011,CINO at 31 March,1231,579,47
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,Harrow,E09000015,CINO at 31 March,1004,301,30
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,Havering,E09000016,CINO at 31 March,755,329,43.6
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,Hillingdon,E09000017,CINO at 31 March,857,378,44.1
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,Hounslow,E09000018,CINO at 31 March,616,267,43.3
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,Kingston upon Thames,E09000021,CINO at 31 March,252,89,35.3
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,Merton,E09000024,CINO at 31 March,528,223,42.2
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,Redbridge,E09000026,CINO at 31 March,777,290,37.3
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,Richmond upon Thames,E09000027,CINO at 31 March,282,98,34.8
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,Sutton,E09000029,CINO at 31 March,868,313,36.1
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,Waltham Forest,E09000031,CINO at 31 March,959,322,33.6
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,841,Darlington,E06000005,CPPO at 31 March,44,34,77.3
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,840,Durham,E06000047,CPPO at 31 March,326,256,78.5
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,390,Gateshead,E08000037,CPPO at 31 March,177,100,56.5
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,805,Hartlepool,E06000001,CPPO at 31 March,96,71,74
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,806,Middlesbrough,E06000002,CPPO at 31 March,186,129,69.4
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,391,Newcastle upon Tyne,E08000021,CPPO at 31 March,250,202,80.8
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,392,North Tyneside,E08000022,CPPO at 31 March,80,48,60
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,929,Northumberland,E06000057,CPPO at 31 March,123,85,69.1
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,807,Redcar and Cleveland,E06000003,CPPO at 31 March,125,89,71.2
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,393,South Tyneside,E08000023,CPPO at 31 March,109,77,70.6
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,808,Stockton-on-Tees,E06000004,CPPO at 31 March,199,135,67.8
+201617,Academic year,Local authority,E92000001,England,E12000001,North East,394,Sunderland,E08000024,CPPO at 31 March,271,177,65.3
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,889,Blackburn with Darwen,E06000008,CPPO at 31 March,132,79,59.8
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,890,Blackpool,E06000009,CPPO at 31 March,234,176,75.2
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,350,Bolton,E08000001,CPPO at 31 March,139,84,60.4
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,351,Bury,E08000002,CPPO at 31 March,79,59,74.7
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,895,Cheshire East,E06000049,CPPO at 31 March,181,90,49.7
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,896,Cheshire West and Chester,E06000050,CPPO at 31 March,154,103,66.9
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,909,Cumbria,E10000006,CPPO at 31 March,329,173,52.6
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,876,Halton,E06000006,CPPO at 31 March,74,58,78.4
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,340,Knowsley,E08000011,CPPO at 31 March,136,103,75.7
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,888,Lancashire,E10000017,CPPO at 31 March,624,433,69.4
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,341,Liverpool,E08000012,CPPO at 31 March,212,144,67.9
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,352,Manchester,E08000003,CPPO at 31 March,629,467,74.2
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,353,Oldham,E08000004,CPPO at 31 March,210,136,64.8
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,354,Rochdale,E08000005,CPPO at 31 March,88,67,76.1
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,355,Salford,E08000006,CPPO at 31 March,265,191,72.1
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,343,Sefton,E08000014,CPPO at 31 March,150,110,73.3
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,342,St. Helens,E08000013,CPPO at 31 March,134,100,74.6
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,356,Stockport,E08000007,CPPO at 31 March,143,90,62.9
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,357,Tameside,E08000008,CPPO at 31 March,230,151,65.7
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,358,Trafford,E08000009,CPPO at 31 March,172,103,59.9
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,877,Warrington,E06000007,CPPO at 31 March,162,95,58.6
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,359,Wigan,E08000010,CPPO at 31 March,175,106,60.6
+201617,Academic year,Local authority,E92000001,England,E12000002,North West,344,Wirral,E08000015,CPPO at 31 March,249,152,61
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,370,Barnsley,E08000016,CPPO at 31 March,148,102,68.9
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,380,Bradford,E08000032,CPPO at 31 March,373,218,58.4
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,381,Calderdale,E08000033,CPPO at 31 March,138,88,63.8
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,371,Doncaster,E08000017,CPPO at 31 March,277,168,60.6
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,811,East Riding of Yorkshire,E06000011,CPPO at 31 March,144,91,63.2
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,810,Kingston upon Hull City of,E06000010,CPPO at 31 March,275,201,73.1
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,382,Kirklees,E08000034,CPPO at 31 March,295,208,70.5
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,383,Leeds,E08000035,CPPO at 31 March,332,227,68.4
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,812,North East Lincolnshire,E06000012,CPPO at 31 March,122,72,59
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,813,North Lincolnshire,E06000013,CPPO at 31 March,67,46,68.7
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,815,North Yorkshire,E10000023,CPPO at 31 March,245,159,64.9
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,372,Rotherham,E08000018,CPPO at 31 March,247,139,56.3
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,373,Sheffield,E08000019,CPPO at 31 March,268,185,69
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,384,Wakefield,E08000036,CPPO at 31 March,97,59,60.8
+201617,Academic year,Local authority,E92000001,England,E12000003,Yorkshire and the Humber,816,York,E06000014,CPPO at 31 March,118,60,50.8
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,831,Derby,E06000015,CPPO at 31 March,219,133,60.7
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,830,Derbyshire,E10000007,CPPO at 31 March,552,368,66.7
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,856,Leicester,E06000016,CPPO at 31 March,240,163,67.9
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,855,Leicestershire,E10000018,CPPO at 31 March,225,127,56.4
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,925,Lincolnshire,E10000019,CPPO at 31 March,196,129,65.8
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,928,Northamptonshire,E10000021,CPPO at 31 March,555,325,58.6
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,892,Nottingham,E06000018,CPPO at 31 March,248,167,67.3
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,891,Nottinghamshire,E10000024,CPPO at 31 March,536,333,62.1
+201617,Academic year,Local authority,E92000001,England,E12000004,East Midlands,857,Rutland,E06000017,CPPO at 31 March,15,11,73.3
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,330,Birmingham,E08000025,CPPO at 31 March,561,432,77
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,331,Coventry,E08000026,CPPO at 31 March,333,177,53.2
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,332,Dudley,E08000027,CPPO at 31 March,278,176,63.3
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,884,Herefordshire,E06000019,CPPO at 31 March,67,34,50.7
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,333,Sandwell,E08000028,CPPO at 31 March,267,194,72.7
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,893,Shropshire,E06000051,CPPO at 31 March,164,91,55.5
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,334,Solihull,E08000029,CPPO at 31 March,128,72,56.3
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,860,Staffordshire,E10000028,CPPO at 31 March,307,186,60.6
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,861,Stoke-on-Trent,E06000021,CPPO at 31 March,239,178,74.5
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,894,Telford and Wrekin,E06000020,CPPO at 31 March,135,94,69.6
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,335,Walsall,E08000030,CPPO at 31 March,216,153,70.8
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,937,Warwickshire,E10000031,CPPO at 31 March,251,148,59
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,336,Wolverhampton,E08000031,CPPO at 31 March,173,102,59
+201617,Academic year,Local authority,E92000001,England,E12000005,West Midlands,885,Worcestershire,E10000034,CPPO at 31 March,293,193,65.9
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,822,Bedford,E06000055,CPPO at 31 March,127,89,70.1
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,873,Cambridgeshire,E10000003,CPPO at 31 March,350,227,64.9
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,823,Central Bedfordshire,E06000056,CPPO at 31 March,112,57,50.9
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,881,Essex,E10000012,CPPO at 31 March,302,178,58.9
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,919,Hertfordshire,E10000015,CPPO at 31 March,229,130,56.8
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,821,Luton,E06000032,CPPO at 31 March,137,79,57.7
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,926,Norfolk,E10000020,CPPO at 31 March,313,207,66.1
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,874,Peterborough,E06000031,CPPO at 31 March,108,79,73.1
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,882,Southend-on-Sea,E06000033,CPPO at 31 March,135,81,60
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,935,Suffolk,E10000029,CPPO at 31 March,239,161,67.4
+201617,Academic year,Local authority,E92000001,England,E12000006,East of England,883,Thurrock,E06000034,CPPO at 31 March,167,101,60.5
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,867,Bracknell Forest,E06000036,CPPO at 31 March,120,64,53.3
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,846,Brighton and Hove,E06000043,CPPO at 31 March,216,119,55.1
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,825,Buckinghamshire,E10000002,CPPO at 31 March,352,143,40.6
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,845,East Sussex,E10000011,CPPO at 31 March,276,207,75
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,850,Hampshire,E10000014,CPPO at 31 March,743,441,59.4
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,921,Isle of Wight,E06000046,CPPO at 31 March,111,60,54.1
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,886,Kent,E10000016,CPPO at 31 March,666,460,69.1
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,887,Medway,E06000035,CPPO at 31 March,177,117,66.1
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,826,Milton Keynes,E06000042,CPPO at 31 March,49,26,53.1
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,931,Oxfordshire,E10000025,CPPO at 31 March,405,228,56.3
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,851,Portsmouth,E06000044,CPPO at 31 March,126,89,70.6
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,870,Reading,E06000038,CPPO at 31 March,219,157,71.7
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,871,Slough,E06000039,CPPO at 31 March,100,42,42
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,852,Southampton,E06000045,CPPO at 31 March,173,126,72.8
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,936,Surrey,E10000030,CPPO at 31 March,501,336,67.1
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,869,West Berkshire,E06000037,CPPO at 31 March,107,44,41.1
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,938,West Sussex,E10000032,CPPO at 31 March,326,207,63.5
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,868,Windsor and Maidenhead,E06000040,CPPO at 31 March,96,44,45.8
+201617,Academic year,Local authority,E92000001,England,E12000008,South East,872,Wokingham,E06000041,CPPO at 31 March,29,22,75.9
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,800,Bath and North East Somerset,E06000022,CPPO at 31 March,85,69,81.2
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,837,Bournemouth (up to 2019),E06000028,CPPO at 31 March,80,50,62.5
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,801,Bristol City of,E06000023,CPPO at 31 March,310,224,72.3
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,908,Cornwall,E06000052,CPPO at 31 March,252,145,57.5
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,878,Devon,E10000008,CPPO at 31 March,278,211,75.9
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,835,Dorset (up to 2019),E10000009,CPPO at 31 March,254,160,63
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,916,Gloucestershire,E10000013,CPPO at 31 March,260,177,68.1
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,420,Isles Of Scilly,E06000053,CPPO at 31 March,0,z,z
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,802,North Somerset,E06000024,CPPO at 31 March,64,43,67.2
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,879,Plymouth,E06000026,CPPO at 31 March,177,138,78
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,836,Poole (up to 2019),E06000029,CPPO at 31 March,53,35,66
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,933,Somerset,E10000027,CPPO at 31 March,242,154,63.6
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,803,South Gloucestershire,E06000025,CPPO at 31 March,103,60,58.3
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,866,Swindon,E06000030,CPPO at 31 March,172,101,58.7
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,880,Torbay,E06000027,CPPO at 31 March,137,94,68.6
+201617,Academic year,Local authority,E92000001,England,E12000009,South West,865,Wiltshire,E06000054,CPPO at 31 March,229,122,53.3
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,202,Camden,E09000007,CPPO at 31 March,147,106,72.1
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,201,City of London,E09000001,CPPO at 31 March,0,z,z
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,204,Hackney,E09000012,CPPO at 31 March,197,142,72.1
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,205,Hammersmith and Fulham,E09000013,CPPO at 31 March,52,38,73.1
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,309,Haringey,E09000014,CPPO at 31 March,125,66,52.8
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,206,Islington,E09000019,CPPO at 31 March,104,78,75
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,207,Kensington and Chelsea,E09000020,CPPO at 31 March,41,23,56.1
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,208,Lambeth,E09000022,CPPO at 31 March,71,52,73.2
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,209,Lewisham,E09000023,CPPO at 31 March,169,102,60.4
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,316,Newham,E09000025,CPPO at 31 March,200,100,50
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,210,Southwark,E09000028,CPPO at 31 March,229,120,52.4
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,211,Tower Hamlets,E09000030,CPPO at 31 March,258,166,64.3
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,212,Wandsworth,E09000032,CPPO at 31 March,241,111,46.1
+201617,Academic year,Local authority,E92000001,England,E13000001,Inner London,213,Westminster,E09000033,CPPO at 31 March,43,30,69.8
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,301,Barking and Dagenham,E09000002,CPPO at 31 March,174,98,56.3
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,302,Barnet,E09000003,CPPO at 31 March,53,33,62.3
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,303,Bexley,E09000004,CPPO at 31 March,111,49,44.1
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,304,Brent,E09000005,CPPO at 31 March,147,65,44.2
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,305,Bromley,E09000006,CPPO at 31 March,214,119,55.6
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,306,Croydon,E09000008,CPPO at 31 March,236,137,58.1
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,307,Ealing,E09000009,CPPO at 31 March,144,80,55.6
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,308,Enfield,E09000010,CPPO at 31 March,75,54,72
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,203,Greenwich,E09000011,CPPO at 31 March,195,141,72.3
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,310,Harrow,E09000015,CPPO at 31 March,163,74,45.4
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,311,Havering,E09000016,CPPO at 31 March,180,126,70
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,312,Hillingdon,E09000017,CPPO at 31 March,161,103,64
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,313,Hounslow,E09000018,CPPO at 31 March,156,92,59
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,314,Kingston upon Thames,E09000021,CPPO at 31 March,100,45,45
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,315,Merton,E09000024,CPPO at 31 March,75,47,62.7
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,317,Redbridge,E09000026,CPPO at 31 March,167,99,59.3
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,318,Richmond upon Thames,E09000027,CPPO at 31 March,53,32,60.4
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,319,Sutton,E09000029,CPPO at 31 March,153,75,49
+201617,Academic year,Local authority,E92000001,England,E13000002,Outer London,320,Waltham Forest,E09000031,CPPO at 31 March,151,70,46.4

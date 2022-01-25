@@ -1,0 +1,268 @@
+{
+    "@graph": [
+        {
+            "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue",
+            "@type": "dcat:Catalog",
+            "dcterms:description": {
+                "@language": "en",
+                "@value": "A catalogue of datasets produced by the Department for Education."
+            },
+            "dcterms:publisher": {
+                "@id": "https://www.education.gov.uk/"
+            },
+            "dcterms:title:": {
+                "@language": "en",
+                "@value": "Explore education statistics data catalogue"
+            },
+            "dcat:dataset": {
+                "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england",
+                "@type": "dcat:DatasetSeries",
+                "dcterms:title:": {
+                    "@language": "en",
+                    "@value": "Outcomes for children in need, including children looked after by local authorities in England"
+                }
+            }
+        },
+        {
+            "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020",
+            "@type": "dcat:Dataset",
+            "dcterms:title:": {
+                "@language": "en",
+                "@value": "Outcomes for children in need, including children looked after by local authorities in England, 2020"
+            },
+            "dcat:inSeries": {
+                "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england"
+            },
+            "dcat:hasPart": {
+                "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fsm"
+            }
+        },
+        {
+            "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fsm",
+            "@type": "dcat:Dataset",
+            "dcterms:accrualPeriodicity": {
+                "@id": "http://purl.org/cld/freq/annual"
+            },
+            "dcterms:creator": {
+                "@id": "mailto:xxx@education.gov.uk"
+            },
+            "dcterms:description": {
+                "@language": "en",
+                "@value": "Free school meal eligibility for children in need (excluding children on a child protection plan and children looked after), children on a child protection plan (excluding children looked after), 2016/17 to 2019/20."
+            },
+            "dcterms:isReferencedBy": {
+                "@id": "https://explore-education-statistics.service.gov.uk/find-statistics/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england"
+            },
+            "dcterms:issued": {
+                "@type": "xsd:dateTime",
+                "@value": "2021-03-25:09:30Z"
+            },
+            "dcterms:license": {
+                "@id": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+            },
+            "dcterms:modified": {
+                "@type": "xsd:dateTime",
+                "@value": "2021-03-25:09:30Z"
+            },
+            "dcterms:publisher": {
+                "@id": "https://www.education.gov.uk/"
+            },
+            "dcterms:spatial": {
+                "@id": "http://statistics.data.gov.uk/id/statistical-geography/E92000001"
+            },
+            "dcterms:temporal": {
+                "@id": "http://reference.data.gov.uk/id/gregorian-interval/2016-09-01T00:00:00/P5Y"
+            },
+            "dcterms:title:": {
+                "@language": "en",
+                "@value": "Children on free school meals (FSM) by social care group and local authorities in England"
+            },
+            "dcat:contactPoint": {
+                "@id": "mailto:xxx@education.gov.uk"
+            },
+            "dcat:keyword": [
+                {
+                    "@language": "en",
+                    "@value": "free school meals"
+                },
+                {
+                    "@language": "en",
+                    "@value": "FSM"
+                }
+            ],
+            "dcat:landingPage": {
+                "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020.html"
+            },
+            "dcat:theme": [
+                {
+                    "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue#childrens-social-care"
+                },
+                {
+                    "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue#outcomes-for-children-in-social-care"
+                }
+            ],
+            "dcat:distribution": [
+                {
+                    "@context": "http://www.w3.org/ns/csvw",
+                    "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fsm.csv",
+                    "@type": [
+                        "dcat:Distribution",
+                        "Table"
+                    ],
+                    "dcat:mediaType:": {
+                        "@id": "http://www.iana.org/assignments/media-types/text/csv"
+                    },
+                    "dcat:title": {
+                        "@language": "en",
+                        "@value": "CSV distribution of Children on free school meals (FSM) by social care group and local authorities in England"
+                    },
+                    "describedby": {
+                        "@id": "fsm_la.csv-metadata.json"
+                    },
+                    "url": "fsm_la.csv",
+                    "tableSchema": {
+                        "columns": [
+                            {
+                                "name": "time_period",
+                                "titles": "time_period",
+                                "dcterms:description": "Academic year which the observation relates to.",
+                                "propertyUrl": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/time_period",
+                                "valueUrl": "http://reference.data.gov.uk/id/gregorian-interval/{time_period:4}-09-01T00:00:00/P1Y"
+                            },
+                            {
+                                "titles": "time_identifier",
+                                "suppressOutput": true
+                            },
+                            {
+                                "titles": "geographic_level",
+                                "suppressOutput": true
+                            },
+                            {
+                                "titles": "country_code",
+                                "suppressOutput": true
+                            },
+                            {
+                                "titles": "country_name",
+                                "suppressOutput": true
+                            },
+                            {
+                                "titles": "region_code",
+                                "suppressOutput": true
+                            },
+                            {
+                                "titles": "region_name",
+                                "suppressOutput": true
+                            },
+                            {
+                                "titles": "old_la_code",
+                                "suppressOutput": true
+                            },
+                            {
+                                "titles": "la_name",
+                                "suppressOutput": true
+                            },
+                            {
+                                "name": "new_la_code",
+                                "titles": "new_la_code",
+                                "dcterms:description": "Local authority code.",
+                                "propertyUrl": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/new_la_code",
+                                "valueUrl": "http://statistics.data.gov.uk/id/statistical-geography/{new_la_code}"
+                            },
+                            {
+                                "name": "social_care_group",
+                                "titles": "social_care_group",
+                                "dcterms:description": "Social care group - filter by social care group.",
+                                "propertyUrl": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/social_care_group",
+                                "valueUrl": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/social_care_group/{+social_care_group}"
+                            },
+                            {
+                                "name": "t_pupils",
+                                "titles": "t_pupils",
+                                "datatype": "integer",
+                                "dcterms:description": "Number of pupils.",
+                                "propertyUrl": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/t_pupils"
+                            },
+                            {
+                                "name": "t_FSM_eligible",
+                                "titles": "t_FSM_eligible",
+                                "datatype": "integer",
+                                "dcterms:description": "Number of pupils with free school meal eligibility.",
+                                "propertyUrl": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/t_FSM_eligible"
+                            },
+                            {
+                                "name": "pt_FSM_eligible",
+                                "titles": "pt_FSM_eligible",
+                                "datatype": "decimal",
+                                "dcterms:description": "Percentage of pupils with free school meal eligibility.",
+                                "propertyUrl": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/pt_FSM_eligible"
+                            }
+                        ],
+                        "aboutUrl": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#observation/{time_period:4}-{new_la_code}-{+social_care_group}"
+                    }
+                },
+                {
+                    "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fsm/qb",
+                    "@type": [
+                        "qb:DataSet",
+                        "dcat:Distribution"
+                    ],
+                    "qb:structure": {
+                        "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fsm/qb/structure",
+                        "@type": "qb:DataStructureDefinition",
+                        "qb:component": [
+                            {
+                                "qb:dimension": {
+                                    "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/time_period",
+                                    "@type": "qb:DimensionProperty",
+                                    "rdfs:comment": "Academic year which the observation relates to."
+                                }
+                            },
+                            {
+                                "qb:dimension": {
+                                    "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/new_la_code",
+                                    "@type": "qb:DimensionProperty",
+                                    "rdfs:comment": "Local authority code."
+                                }
+                            },
+                            {
+                                "qb:dimension": {
+                                    "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/social_care_group",
+                                    "@type": "qb:DimensionProperty",
+                                    "rdfs:comment": "Social care group - filter by social care group."
+                                }
+                            },
+                            {
+                                "qb:dimension": {
+                                    "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/social_care_group",
+                                    "@type": "qb:DimensionProperty",
+                                    "rdfs:comment": "Social care group - filter by social care group."
+                                }
+                            },
+                            {
+                                "qb:measure": {
+                                    "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/t_pupils",
+                                    "dcterms:description": "Number of pupils.",
+                                    "@type": "qb:MeasureProperty"
+                                }
+                            },
+                            {
+                                "qb:measure": {
+                                    "@id": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/t_FSM_eligible",
+                                    "dcterms:description": "Number of pupils with free school meal eligibility.",
+                                    "@type": "qb:MeasureProperty"
+                                }
+                            },
+                            {
+                                "qb:measure": {
+                                    "propertyUrl": "https://explore-education-statistics.service.gov.uk/data-catalogue/outcomes-for-children-in-need-including-children-looked-after-by-local-authorities-in-england/2020#la-free-school-meals-fs/pt_FSM_eligible",
+                                    "dcterms:description": "Percentage of pupils with free school meal eligibility.",
+                                    "@type": "qb:MeasureProperty"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
